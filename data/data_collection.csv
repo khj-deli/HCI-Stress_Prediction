@@ -1,0 +1,582 @@
+,date,daily_temperature_variation,id,gender,breakfast,lunch,dinner,midnight snack,steps,exercise,stress_score,distance,all_meals,calories
+0,2023. 10. 12,12.1,김현지,1.0,nan,Wang Tukong,"Banquet Noodles, pork cutlet",iced tea with a shot,4300,,7,3071,"nan, Wang Tukong, Banquet Noodles, pork cutlet, iced tea with a shot",1225.0
+1,2023. 10. 12,12.1,강지연,1.0,nan,"doenjang stew, boiled rice, Fresh Lettuce Kimchi, egg",barbecue,"big pie*2, mandarin*2, chocolate smoothie",3502,,2,2501,"nan, doenjang stew, boiled rice, Fresh Lettuce Kimchi, egg, barbecue, big pie*2, mandarin*2, chocolate smoothie",2920.0
+2,2023. 10. 12,12.1,김정윤,0.0,nan,Jindo green onion burger set,bulgogi,"milk tea, energy drink, protein drink",15234,웨이트 트레이닝 1시간,5,10881,"nan, Jindo green onion burger set, bulgogi, milk tea, energy drink, protein drink",900.0
+3,2023. 10. 12,12.1,김지연,1.0,nan,Braised Kimchi,"pork, Steamed Eggs, hwachae, seasoned deep-fried potatoes, soju","yogurt*2, chocolate milk",7075,,4,5054,"nan, Braised Kimchi, pork, Steamed Eggs, hwachae, seasoned deep-fried potatoes, soju, yogurt*2, chocolate milk",2045.0
+4,2023. 10. 12,12.1,고재경,0.0,nan,"pork cutlet, doenjang stew, boild rice","boiled chicken soup, Black rice, Stir-fried Pork",bread with jam,11580,,10,8271,"nan, pork cutlet, doenjang stew, boild rice, boiled chicken soup, Black rice, Stir-fried Pork, bread with jam",2100.0
+5,2023. 10. 12,12.1,김재현,0.0,"gimbap, egg soup, coffee","1955 burger, double bulgogi burger, zero coke",Squid jjamppong,ice americano,11703,걷기 62분,10,8359,"gimbap, egg soup, coffee, 1955 burger, double bulgogi burger, zero coke, Squid jjamppong, ice americano",1930.0
+6,2023. 10. 12,12.1,배우리,1.0,nan,nan,Pork Cutlet Hot Pot,ice americano,"8,059",실외 자전거 20분,3,5756,"nan, nan, Pork Cutlet Hot Pot, ice americano",410.0
+7,2023. 10. 12,12.1,한수민,1.0,nan,"barely boiled rice, doenjang stew",pizza,"bubble tea , choco cookie","4,329",필라테스 50분,0,3092,"nan, barely boiled rice, doenjang stew, pizza, bubble tea , choco cookie",1100.0
+8,2023. 10. 12,12.1,이두현,0.0,nan,"ham, boiled rice",soju,hamburger,20000,배드민턴 3시간 헬스 1시간 유도 2시간,8,14286,"nan, ham, boiled rice, soju, hamburger",310.0
+9,2023. 10. 12,12.1,김동현,0.0,"Chicken breast, gyeranmari, boiled rice","Sweet Potato Latte, Rap nose","chicken gangjeong, boiled rice",highball*3,7571,,5,5408,"Chicken breast, gyeranmari, boiled rice, Sweet Potato Latte, Rap nose, chicken gangjeong, boiled rice, highball*3",1265.0
+10,2023. 10. 12,12.1,이채린,1.0,nan,spicy soft-tofu stew,chopped noodles,"Shine musket tanghulu, canned beer, instant cup ramen",3153,,7,2252,"nan, spicy soft-tofu stew, chopped noodles, Shine musket tanghulu, canned beer, instant cup ramen",1345.0
+11,2023. 10. 12,12.1,오유진,1.0,nan,Young Summer Radish Kimchi Bibimbap,nan,croiffle*2,633,,6,452,"nan, Young Summer Radish Kimchi Bibimbap, nan, croiffle*2",630.0
+12,2023. 10. 12,12.1,서지윤,1.0,nan,nan,pasta,"Shine musket tanghulu, canned beer, instant cup ramen",2514,,0,1796,"nan, nan, pasta, Shine musket tanghulu, canned beer, instant cup ramen",1155.0
+13,2023. 10. 12,12.1,홍한별,1.0,nan,"curry, beef tartare with rice","Banquet Noodles, pork cutlet, boiled rice","Bacchus, Iced Café Latte, Matcha tiramisu 0.5개, strawberry milk","4,467",,9,3191,"nan, curry, beef tartare with rice, Banquet Noodles, pork cutlet, boiled rice, Bacchus, Iced Café Latte, Matcha tiramisu 0.5개, strawberry milk",2100.0
+14,2023. 10. 12,12.1,문선우,1.0,Country fried steak plate,banana,sandwich,banana chips,9139,,3,6528,"Country fried steak plate, banana, sandwich, banana chips",1100.0
+15,2023. 10. 13,7.2,오유진,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(간장찜chicken)",nan,"chocolate bar, Iced Vanilla Latte",9526,,7,6804,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(간장찜chicken), nan, chocolate bar, Iced Vanilla Latte",2260.0
+16,2023. 10. 13,7.2,이두현,0.0,nan,"bread, toreta",pork stew,squid,10205,"런닝머신 20분, 등운동 40분",3,7289,"nan, bread, toreta, pork stew, squid",970.0
+17,2023. 10. 13,7.2,서지윤,1.0,nan,Steamed Eggs,"instant ramen, milk pudding, iced tea",milk tea,16989,산책 2시간,2,12135,"nan, Steamed Eggs, instant ramen, milk pudding, iced tea, milk tea",1000.0
+18,2023. 10. 13,7.2,고재경,0.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu",soju,15272,,0,10909,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, soju",3460.0
+19,2023. 10. 13,7.2,김정윤,0.0,nan,Mala Soup,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu (고깃집 fried rice)","parboiled octopus, clam stew",11531,,4,8236,"nan, Mala Soup, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu (고깃집 fried rice), parboiled octopus, clam stew",2970.0
+20,2023. 10. 13,7.2,문선우,1.0,banana,korean pork yum yum bowl,Cali bowl(poke),nan,19514,,2,13939,"banana, korean pork yum yum bowl, Cali bowl(poke), nan",600.0
+21,2023. 10. 13,7.2,김동현,0.0,"instant cup ramen, Chicken breast","bread, protein drink",soju,soju,8259,"데드리프트 255kg x 4 / 250kg x 4 / 245kg x 4
+벤치프레스 142.5kg x 1 / 132.5kg x 3 / 127.5kg x 3 / 127.5kg x 3
+정지 스쿼트 180kg x 4 / 180kg x 4 / 170kg x 4 / 165kg x 4
+코펜하겐 플랭크 30초 ,20초, 20초",2,5899,"instant cup ramen, Chicken breast, bread, protein drink, soju, soju",1030.0
+22,2023. 10. 13,,홍한별,1.0,nan,Mala Soup 10000원,"Spicy Stir-fried Chicken, 치즈fried rice",pollack baguette 0.25개,"17,227",필라테스 50분,4,12305,"nan, Mala Soup 10000원, Spicy Stir-fried Chicken, 치즈fried rice, pollack baguette 0.25개",1910.0
+23,2023. 10. 13 오후 9:25:13,7.2,한수민,1.0,nan,hot pot,sea mustard soup,"rice cake, peach","5,148",,0,3677,"nan, hot pot, sea mustard soup, rice cake, peach",15.0
+24,2023. 10. 13 오후 10:02:13,7.2,배우리,1.0,nan,nan,chicken gangjeong,"ice americano, jelly*9","6,270",,5,4479,"nan, nan, chicken gangjeong, ice americano, jelly*9",475.0
+25,2023. 10. 13 오후 11:05:57,7.2,강지연,1.0,nan,Greek Yogurt,"doenjang stew, Pan-fried Bean Curd",ice cream,15990,"레그프레스 55kg 20회 4세트 
+힙어브덕션 35kg 15회 4세트 
+레그익스텐션 20kg 12회 5세트 
+스쿼트 100개 
+배드민턴 3시간
+러닝 30분",2,11421,"nan, Greek Yogurt, doenjang stew, Pan-fried Bean Curd, ice cream",1155.0
+26,2023. 10. 13 오후 11:07:49,7.2,김민서,1.0,nan,nan,kimchi stew,"iced tea, cheese sand",5065,,4,3618,"nan, nan, kimchi stew, iced tea, cheese sand",540.0
+27,2023. 10. 13 오후 11:20:57,7.2,김현지,1.0,nan,nan,pork cutlet,black milk tea,6500,,5,4643,"nan, nan, pork cutlet, black milk tea",250.0
+28,2023. 10. 13 오후 11:47:06,7.2,이채린,1.0,nan,"spicy soft-tofu stew, boild rice*0.5",pizza*3,"iced tea with 1 shot size up, Shine musket",9379,,4,6699,"nan, spicy soft-tofu stew, boild rice*0.5, pizza*3, iced tea with 1 shot size up, Shine musket",830.0
+29,2023. 10. 14,5.3,오유진,1.0,nan,"chicken*0.5, boiled rice",nan,iced tea*2,957,,6,684,"nan, chicken*0.5, boiled rice, nan, iced tea*2",660.0
+30,2023. 10. 14,5.3,김동현,0.0,nan,Meat Noodles,sushi,bic mac,8200,,7,5857,"nan, Meat Noodles, sushi, bic mac",1480.0
+31,2023. 10. 14,5.3,서지윤,1.0,nan,Braised Kimchi,Braised Kimchi,"snack, zero coke, jelly",2003,,0,1431,"nan, Braised Kimchi, Braised Kimchi, snack, zero coke, jelly",140.0
+32,2023. 10. 14,5.3,홍한별,1.0,nan,nan,"pork belly, boiled rice","yogert ice cream, Mala Soup","2,939",,4,2099,"nan, nan, pork belly, boiled rice, yogert ice cream, Mala Soup",645.0
+33,2023. 10. 14,5.3,김정윤,0.0,nan,dried pollack soup,Pork belly fried rice,"shine musket, protein drink",2102,웨이트트레이닝 1시간,3,1501,"nan, dried pollack soup, Pork belly fried rice, shine musket, protein drink",550.0
+34,2023. 10. 14,5.3,고재경,0.0,rice noodles,nan,"tteokbokki, boiled rice",snack,10177,,6,7269,"rice noodles, nan, tteokbokki, boiled rice, snack",500.0
+35,2023. 10. 14 오후 7:33:48,5.3,김민서,1.0,nan,pasta,kimchi stew,mandarin*2,6749,,3,4821,"nan, pasta, kimchi stew, mandarin*2",860.0
+36,2023. 10. 14 오후 9:41:55,5.3,김현지,1.0,nan,tomato pasta,wang tukong,nan,4023,,5,2874,"nan, tomato pasta, wang tukong, nan",480.0
+37,2023. 10. 14 오후 9:50:39,5.3,한수민,1.0,nan,nan,braised fish,Green tangerine ade,205,,0,146,"nan, nan, braised fish, Green tangerine ade",250.0
+38,2023. 10. 14 오후 11:33:46,5.3,배우리,1.0,nan,fried rie,jokbal,nan,9974,,5,7124,"nan, fried rie, jokbal, nan",340.0
+39,2023. 10. 14 오후 11:35:06,5.3,강지연,1.0,Greek Yogurt,"jajangmyeon, sweet and sour pork","chinese-style noodles, Deep-fried Squid","orange juice, croiffle, ice americano",23850,,2,17036,"Greek Yogurt, jajangmyeon, sweet and sour pork, chinese-style noodles, Deep-fried Squid, orange juice, croiffle, ice americano",2510.0
+40,2023. 10. 14 오후 11:53:56,5.3,이채린,1.0,nan,Spicy Stir-fried Chicken,intestines,ice cream,4648,,6,3320,"nan, Spicy Stir-fried Chicken, intestines, ice cream",435.0
+41,2023. 10. 15,10.3,오유진,1.0,nan,"chicken*0.5, instant cup ramen",nan,"ice cream, chocolate",1173,,6,838,"nan, chicken*0.5, instant cup ramen, nan, ice cream, chocolate",1645.0
+42,2023. 10. 15,10.3,이두현,0.0,instant ramen,nan,jokbal,tanghulu,19150,배드민턴 3시간,1,13679,"instant ramen, nan, jokbal, tanghulu",1315.0
+43,2023. 10. 15,10.3,강지연,1.0,nan,toast,"hot spicy soup, boiled rice, fresh kimchi","Mocha Latte, Salt bread, tanghulu",6300,배드민턴 3시간,1,4500,"nan, toast, hot spicy soup, boiled rice, fresh kimchi, Mocha Latte, Salt bread, tanghulu",1525.0
+44,2023. 10. 15,10.3,문선우,1.0,Biscuit bacon sandwich,banana*2,bacon cheese burger,tteokbokki,26946,"Hip Adductor 14kg 12회 3set
+Leg press 45kg 12회 1set, 54kg 12회 2set
+Prone leg curl 23kg 12회 1set, 7회, 10회
+Chest press 18kg 10회, 12회 1set, 8회
+Pec fly 14kg 10회, 8회, 5회
+배드민턴 2시간반",0,19247,"Biscuit bacon sandwich, banana*2, bacon cheese burger, tteokbokki",1470.0
+45,2023. 10. 15,10.3,고재경,0.0,"Spicy Stir-fried Chicken, fried rice",nan,Braised Kimchi,chicken,16892,,5,12066,"Spicy Stir-fried Chicken, fried rice, nan, Braised Kimchi, chicken",740.0
+46,2023. 10. 15,10.3,김정윤,0.0,kimchi stew,boiled pork slice,barbecue,"coffee, ice americano",2863,,3,2045,"kimchi stew, boiled pork slice, barbecue, coffee, ice americano",1330.0
+47,2023. 10. 15,10.3,서지윤,1.0,nan,Braised Kimchi,"crepe, Iced Café Latte","Mocha Latte, Castella",13439,산책 1시간 30분,0,9599,"nan, Braised Kimchi, crepe, Iced Café Latte, Mocha Latte, Castella",1190.0
+48,2023. 10. 15,10.3,홍한별,1.0,nan,pork cutlet,"Braised Kimchi, boiled rice*2",Greek Yogurt,"4,723",,7,3374,"nan, pork cutlet, Braised Kimchi, boiled rice*2, Greek Yogurt",570.0
+49,2023. 10. 15,10.3,한수민,1.0,nan,sea mustard soup,rice noodles,"black milk tea, Kaimak","5,701",,0,4072,"nan, sea mustard soup, rice noodles, black milk tea, Kaimak",855.0
+50,2023. 10. 15,10.3,김동현,0.0,nan,"stir-fried spicy pork, boiled rice","Braised Kimchi, boiled rice",bread,7176,,3,5126,"nan, stir-fried spicy pork, boiled rice, Braised Kimchi, boiled rice, bread",880.0
+51,2023. 10. 15 오후 7:46:08,10.3,이채린,1.0,gimbap,omurice,nan,banana milk,12988,,4,9277,"gimbap, omurice, nan, banana milk",1940.0
+52,2023. 10. 15 오후 8:27:22,10.3,김민서,1.0,nan,tteokbokki,sushi,nacho,7284,,3,5203,"nan, tteokbokki, sushi, nacho",630.0
+53,2023. 10. 15 오후 9:59:19,10.3,김현지,1.0,nan,nan,japanese noodles,French fries,1058,,6,756,"nan, nan, japanese noodles, French fries",840.0
+54,2023. 10. 15 오후 10:04:50,10.3,배우리,1.0,kimchi fried rice,shin ramen,nan,ice americano,5898,,6,4213,"kimchi fried rice, shin ramen, nan, ice americano",1030.0
+55,2023. 10. 16,8.9,이두현,0.0,nan,"boiled rice, egg, dumpling ",toast*3,toast,13000,가슴운동 50분 런닝머신 20분,2,9286,"nan, boiled rice, egg, dumpling , toast*3, toast",390.0
+56,2023. 10. 16,8.9,한수민,1.0,nan,"pasta, Risotto","tteokbokki, rice noodles",ice americano with Hazelnut,7729,,0,5521,"nan, pasta, Risotto, tteokbokki, rice noodles, ice americano with Hazelnut",1040.0
+57,2023. 10. 16,8.9,김동현,0.0,nan,"Chicken breast 150g, gyeranmari, boiled rice","chicken gangjeong, boiled rice",coffee*2,5095,"스쿼트 : 225 x 2 / 205 x 5 / 200 x 5 / 190 x 5
+벤치프레스 : 127.5 x 2 / 120 x 5 / 115 x 5 / 110 x 5 / 105 x 5
+씰로우 : 40 x 12, 12, 12, 12
+머신 풀다운 : 40.5 x 12, 12, 12, 12",6,3639,"nan, Chicken breast 150g, gyeranmari, boiled rice, chicken gangjeong, boiled rice, coffee*2",1065.0
+58,2023. 10. 16,8.9,홍한별,1.0,Greek Yogurt,"Tuna and Kimchi Rice Ball, instance ramen","boiled rice, doenjang stew, stir-fried spicy pork, a dried seaweed roll","relish hotdog, hamburger","9,257",,10,6612,"Greek Yogurt, Tuna and Kimchi Rice Ball, instance ramen, boiled rice, doenjang stew, stir-fried spicy pork, a dried seaweed roll, relish hotdog, hamburger",3080.0
+59,2023. 10. 16 오후 8:27:32,8.9,이채린,1.0,"gimbap, grape juice",sandwich,tteokbokki,"iced tea, Shine musket",6000걸음,,5,#VALUE!,"gimbap, grape juice, sandwich, tteokbokki, iced tea, Shine musket",1160.0
+60,2023. 10. 16 오후 9:31:48,8.9,김민서,1.0,nan,egg soup,pork cutlet,nan,6187,,2,4419,"nan, egg soup, pork cutlet, nan",640.0
+61,2023. 10. 16 오후 10:19:06,8.9,배우리,1.0,nan,nan,intestines,"ice americano, Bacchus jelly",13634,피겨 1시간 30분,4,9739,"nan, nan, intestines, ice americano, Bacchus jelly",70.0
+62,2023. 10. 16 오후 11:01:37,8.9,김현지,1.0,nan,"rice, curry",yeol ramen,Iced Chocolate,10049,산책 40분,7,7178,"nan, rice, curry, yeol ramen, Iced Chocolate",860.0
+63,2023. 10. 16 오후 11:20:57,8.9,김정윤,0.0,protein drink,"kimchi stew, boiled rice","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(생과대)","ice americano*2, chocolate bread, protein yogurt",10566,웨이트트레이닝 1시간,4,7547,"protein drink, kimchi stew, boiled rice, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(생과대), ice americano*2, chocolate bread, protein yogurt",2600.0
+64,2023. 10. 16 오후 11:33:13,8.9,고재경,0.0,nan,Fish Roe Rice,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu 5500원",Grapefruit drink,11560,,5,8257,"nan, Fish Roe Rice, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu 5500원, Grapefruit drink",3170.0
+65,2023. 10. 16 오후 11:55:54,8.9,오유진,1.0,nan,"Seafood pork cutlet, French fries",nan,ice cream waffle,10659,걷기 약1시간,5,7614,"nan, Seafood pork cutlet, French fries, nan, ice cream waffle",635.0
+66,2023. 10. 17,13.4,홍한별,1.0,nan,sushi 12p,"pork belly, boiled rice","sashimi, soju","6,977",,8,4984,"nan, sushi 12p, pork belly, boiled rice, sashimi, soju",620.0
+67,2023. 10. 17 오후 6:42:13,13.4,김민서,1.0,nan,nurungji,pasta,cherry tomato*8,6384,,2,4560,"nan, nurungji, pasta, cherry tomato*8",660.0
+68,2023. 10. 17 오후 10:07:54,13.4,배우리,1.0,basil seed,nan,jajangmyeon,"ice americano, Trolley jelly",5401,,5,3858,"basil seed, nan, jajangmyeon, ice americano, Trolley jelly",530.0
+69,2023. 10. 17 오후 10:28:53,13.4,김현지,1.0,nan,wang tukong,"hamburger, French fries, zero coke",iced cafe latte,4103,,7,2931,"nan, wang tukong, hamburger, French fries, zero coke, iced cafe latte",1235.0
+70,2023. 10. 17 오후 11:53:37,13.4,이채린,1.0,"gimbap, grape juice",stir-fried spicy pork,"egg soup, boiled rice",chocolate snack milk 180ml,3600,,6,2571,"gimbap, grape juice, stir-fried spicy pork, egg soup, boiled rice, chocolate snack milk 180ml",2120.0
+71,2023. 10. 18,12.4,홍한별,1.0,nan,bagel 1/2,"hamgurger, zero coke",hot chocolate,"5,832",,4,4166,"nan, bagel 1/2, hamgurger, zero coke, hot chocolate",1070.0
+72,2023. 10. 18,12.4,김현지,1.0,nan,bagel,sushi 10p,Iced Vanilla Latte,7571,,5,5408,"nan, bagel, sushi 10p, Iced Vanilla Latte",580.0
+73,2023. 10. 18 오전 12:27:21,12.4,강지연,1.0,nan,hotdog,"hot spicy soup, omurice",ice americano,18454,"런닝머신 30분 
+레그 프레스 55kg 20회 4세트 
+힙어브덕션 35kg 12회 4세트 
+레그 익스텐션 20kg 12회 4세트 
+스쿼트 100개 ",3,13181,"nan, hotdog, hot spicy soup, omurice, ice americano",1160.0
+74,2023. 10. 18 오전 12:28:28,12.4,김동현,0.0,"protein bar, protein drink",sushi 12p,sweet potato pizza,nan,9520,,4,6800,"protein bar, protein drink, sushi 12p, sweet potato pizza, nan",1260.0
+75,2023. 10. 18 오전 12:28:36,12.4,김영아,1.0,Seaweed oatmeal porridge,"bulgogi, boiled rice, Steamed Eggs, doenjang stew",rice noodles,chocolate,8000,,4,5714,"Seaweed oatmeal porridge, bulgogi, boiled rice, Steamed Eggs, doenjang stew, rice noodles, chocolate",2190.0
+76,2023. 10. 18 오전 12:36:59,12.4,김정윤 ,0.0,nan,"hot spicy beef soup, boiled rice",chicken,"caramel latte, yogurt, zero coke",13260,맨몸운동 1시간,3,9471,"nan, hot spicy beef soup, boiled rice, chicken, caramel latte, yogurt, zero coke",670.0
+77,2023. 10. 18 오전 3:58:21,12.4,문선우,1.0,Biscuit Veggie Sausage Sandwich,"chicken, Salt bread",milk tea,rice snack,15990,,3,11421,"Biscuit Veggie Sausage Sandwich, chicken, Salt bread, milk tea, rice snack",1400.0
+78,2023. 10. 18 오전 4:00:26,12.4,문선우,1.0,banana,"Cheese pizza *2, Roasted vegetable pizza *2","indian-food, japanese-noodles",chocolate cookie,10865,,3,7761,"banana, Cheese pizza *2, Roasted vegetable pizza *2, indian-food, japanese-noodles, chocolate cookie",2000.0
+79,2023. 10. 18 오후 1:14:57,12.4,서지윤,1.0,nan,pasta,Steamed Eggs,nan,8489,러닝머신 30분(인터벌),2,6064,"nan, pasta, Steamed Eggs, nan",570.0
+80,2023. 10. 18 오후 1:16:17,12.4,서지윤,1.0,nan,"hamburger, coke","tteokbokki, chicken, beer","churros, jelly, coke",16037,,0,11455,"nan, hamburger, coke, tteokbokki, chicken, beer, churros, jelly, coke",910.0
+81,2023. 10. 18 오후 2:50:57,12.4,문선우,1.0,Oatmeal,Smoked pork ramen,Chicken Biryani plate,potato,21710,배드민턴 1시간 반,5,15507,"Oatmeal, Smoked pork ramen, Chicken Biryani plate, potato",970.0
+82,2023. 10. 18 오후 8:44:00,12.4,김민서,1.0,nan,"cold noodles, dumpling 4",Spicy Stir-fried Chicken,nan,6143,,3,4388,"nan, cold noodles, dumpling 4, Spicy Stir-fried Chicken, nan",1295.0
+83,2023. 10. 18 오후 9:26:44,12.4,이채린,1.0,"pizza, grape juice","braised beef, boiled rice","Greek Yogurt 50g, Shine musket","matcha latte, snack",4000,,4,2857,"pizza, grape juice, braised beef, boiled rice, Greek Yogurt 50g, Shine musket, matcha latte, snack",1210.0
+84,2023. 10. 18 오후 10:50:34,12.4,강지연,1.0,nan,"ice americano, chocolate cookie",fried rice,"chocolate cream bread, ice americano",14131,배드민턴 2시간,3,10094,"nan, ice americano, chocolate cookie, fried rice, chocolate cream bread, ice americano",340.0
+85,2023. 10. 18 오후 11:08:00,12.4,배우리,1.0,nan,Fish Roe Rice,toast,"ice americano, Bacchus",12513,,5,8938,"nan, Fish Roe Rice, toast, ice americano, Bacchus",500.0
+86,2023. 10. 18 오후 11:24:19,12.4,고재경,0.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","instant cup ramen, dumpling",11616,,5,8297,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, instant cup ramen, dumpling",3960.0
+87,2023. 10. 19,4.0,김현지,1.0,nan,"cereal, milk","rice, curry",nan,5827,,4,4162,"nan, cereal, milk, rice, curry, nan",110.0
+88,2023. 10. 19,4.0,홍한별,1.0,blueberry bagel,"beef, boiled rice",toast,Mala Soup,"8,867",,7,6334,"blueberry bagel, beef, boiled rice, toast, Mala Soup",560.0
+89,2023. 10. 19 오후 12:33:51,4.0,오유진,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(김치찌개)",nan,"green tea latte, snack",11791,,6,8422,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(김치찌개), nan, green tea latte, snack",1860.0
+90,2023. 10. 19 오후 3:17:58,4.0,문선우,1.0,Handpie,"Ramen, japanese-chicken",Four cheese pizza,chocolate,16717,,6,11941,"Handpie, Ramen, japanese-chicken, Four cheese pizza, chocolate",1770.0
+91,2023. 10. 19 오후 5:07:00,4.0,김동현,0.0,nan,protein drink*3,hamgurger,"sandwich, gimbap, protein drink",10913,"데드리프트 220 x 4 / 210 x 4 / 200 x 4, 4
+벤치프레스 120 x 1 / 100 x 4 / 95 x 4 / 90 x 4, 4
+벨트 스쿼트 121.5 x 12, 12, 12, 12
+머신 숄더 프레스 36 x 12 / 41 x 12 / 45 x 12, 12",4,7795,"nan, protein drink*3, hamgurger, sandwich, gimbap, protein drink",1400.0
+92,2023. 10. 19 오후 9:59:55,4.0,이채린,1.0,nan,cheese ramen,chicken,"iced tea with 1 shot, Shine musket",4478,,6,3199,"nan, cheese ramen, chicken, iced tea with 1 shot, Shine musket",830.0
+93,2023. 10. 19 오후 10:09:02,4.0,서지윤,1.0,nan,pork backbone stew,nan,nan,5249,,4,3749,"nan, pork backbone stew, nan, nan",310.0
+94,2023. 10. 19 오후 10:21:10,4.0,배우리,1.0,"boiled rice curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu",nan,Mala Soup,"vitamin drink, snack",8985,,5,6418,"boiled rice curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, nan, Mala Soup, vitamin drink, snack",2080.0
+95,2023. 10. 19 오후 11:03:49,4.0,김민서,1.0,nan,nan,spicy soft-tofu stew,potato snack,9049,,3,6464,"nan, nan, spicy soft-tofu stew, potato snack",560.0
+96,2023. 10. 20,7.9,김현지,1.0,nan,wang tukong,"toast, zero coke",Café Latte,6006,,7,4290,"nan, wang tukong, toast, zero coke, Café Latte",685.0
+97,2023. 10. 20,7.9,홍한별,,nan,nan,"Grilled pork kimchi, boiled rice, fried rice","ice americano, Honey Butter Bread*0.5, jokbal, soju","5,901",필라테스 56분,6,4215,"nan, nan, Grilled pork kimchi, boiled rice, fried rice, ice americano, Honey Butter Bread*0.5, jokbal, soju",860.0
+98,2023. 10. 20 오전 10:02:59,7.9,김정윤,0.0,protein drink,steak,pork belly,"ice americano, Bacchus, banana milk, ice cream",12092,웨이트 트레이닝 1시간,6,8637,"protein drink, steak, pork belly, ice americano, Bacchus, banana milk, ice cream",1725.0
+99,2023. 10. 20 오전 11:22:36,7.9,오유진,1.0,nan,"tteokbokki, boiled rice",nan,sweet potato snack,557,,5,398,"nan, tteokbokki, boiled rice, nan, sweet potato snack",740.0
+100,2023. 10. 20 오후 12:41:40,7.9,고재경,0.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu",chicken gangjeong,14184,,4,10131,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, chicken gangjeong",
+101,2023. 10. 20 오후 1:08:14,7.9,서지윤,1.0,nan,chinese spicy stir-fry,"toast, zero coke",Iced Vanilla Latte,5049,,3,3606,"nan, chinese spicy stir-fry, toast, zero coke, Iced Vanilla Latte",
+102,2023. 10. 20 오후 10:00:53,7.9,배우리,1.0,"boiled rice, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu",nan,pasta,ice americano*2,7011,,5,5008,"boiled rice, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, nan, pasta, ice americano*2",
+103,2023. 10. 20 오후 10:36:50,7.9,이채린,1.0,계란fried rice,nan,"doenjang stew, boiled rice","ice americano size up, Shine musket",8400,,6,6000,"계란fried rice, nan, doenjang stew, boiled rice, ice americano size up, Shine musket",
+104,2023. 10. 21,10.7,강지연,1.0,nan,"ice americano, bread",chicken,nan,7314,,2,5224,"nan, ice americano, bread, chicken, nan",
+105,2023. 10. 21,10.7,홍한별,1.0,pork belly curry,Greek Yogurt,"braised food, boiled rice",kimchi dumpling*6,"4,912",,2,3509,"pork belly curry, Greek Yogurt, braised food, boiled rice, kimchi dumpling*6",
+106,2023. 10. 21 오전 12:10:35,10.7,강지연,1.0,nan,"donut, ice americano","beef, boiled rice",chocolate bread,14836,배드민턴 3시간,3,10597,"nan, donut, ice americano, beef, boiled rice, chocolate bread",
+107,2023. 10. 21 오전 1:53:04,10.7,문선우,1.0,"Biscuit bacon sandwich, country potatoes",nan,"Three cheese grilled cheese(샌드위치), curly fries","snack, cookie, churros",11874,,1,8481,"Biscuit bacon sandwich, country potatoes, nan, Three cheese grilled cheese(샌드위치), curly fries, snack, cookie, churros",
+108,2023. 10. 21 오전 4:06:12,10.7,김동현,0.0,nan,"gyeranmari, Chicken breast 100g, boiled rice",chicken,"beer 1.6L, bread",7891,,6,5636,"nan, gyeranmari, Chicken breast 100g, boiled rice, chicken, beer 1.6L, bread",
+109,2023. 10. 21 오후 1:13:32,10.7,오유진,1.0,nan,Young Summer Radish Kimchi Bibimbap,nan,"milk tea, Deep-fried Squid",7481,,5,5344,"nan, Young Summer Radish Kimchi Bibimbap, nan, milk tea, Deep-fried Squid",
+110,2023. 10. 21 오후 1:52:48,10.7,서지윤,1.0,nan,"chinese spicy stir-fry, japanese stew","tuna, boiled rice",nan,2164,,4,1546,"nan, chinese spicy stir-fry, japanese stew, tuna, boiled rice, nan",
+111,2023. 10. 21 오후 4:53:53,10.7,문선우,1.0,nan,mapo tofu noodles,Liuzhou noodles,"sweet potato waffle fries, yogurt, ice cream",28972,"러닝머신 30분, 하이킹 2시간",1,20694,"nan, mapo tofu noodles, Liuzhou noodles, sweet potato waffle fries, yogurt, ice cream",
+112,2023. 10. 21 오후 9:21:28,10.7,김현지,1.0,nan,nan,Pork Cutlet with Curry,snack,9569,산책 30분,5,6835,"nan, nan, Pork Cutlet with Curry, snack",
+113,2023. 10. 21 오후 10:40:31,10.7,김민서,1.0,nan,"salmon, rice","pork, boiled rice",nan,5296,,3,3783,"nan, salmon, rice, pork, boiled rice, nan",
+114,2023. 10. 21 오후 11:34:00,10.7,오유진,1.0,nan,"curry, kimchi",nan,bungeoppang*6,7401,걷기 1시간,2,5286,"nan, curry, kimchi, nan, bungeoppang*6",
+115,2023. 10. 22,13.3,강지연,1.0,nan,gimbap,Honey Butter Bread,ice americano,5538,,2,3956,"nan, gimbap, Honey Butter Bread, ice americano",
+116,2023. 10. 22,13.3,홍한별,1.0,"boiled rice, braised food",Greek Yogurt,tteokbokki,instant cup ramen,"1,172",,1,837,"boiled rice, braised food, Greek Yogurt, tteokbokki, instant cup ramen",
+117,2023. 10. 22,13.3,김동현,0.0,nan,"chicken, rice",Pork Cutlet Stuffed with Sweet Potatoes,protein drink,11369,책가방 메고 걷기 40분,3,8121,"nan, chicken, rice, Pork Cutlet Stuffed with Sweet Potatoes, protein drink",
+118,2023. 10. 22 오전 12:29:21,13.3,배우리,1.0,nan,nan,pizza,ice americano*2,5200,,4,3714,"nan, nan, pizza, ice americano*2",
+119,2023. 10. 22 오전 1:16:33,13.3,김정윤,0.0,nan,"Chicken breast, soup","steamed shrimp, stew","ice americano, apple juice",7610,,5,5436,"nan, Chicken breast, soup, steamed shrimp, stew, ice americano, apple juice",
+120,2023. 10. 22 오전 5:09:33,13.3,이채린,1.0,nan,chopped noodles,dumpling*7,iced tea,1700,,4,1214,"nan, chopped noodles, dumpling*7, iced tea",
+121,2023. 10. 22 오후 2:23:03,13.3,문선우,1.0,nan,Cali bowl(poke),nan,iced pumpkin latte,13350,,3,9536,"nan, Cali bowl(poke), nan, iced pumpkin latte",
+122,2023. 10. 22 오후 9:49:18,13.3,이채린,1.0,hamburger,nan,"Greek Yogurt, Shine musket","ade, snack",5700,,7,4071,"hamburger, nan, Greek Yogurt, Shine musket, ade, snack",
+123,2023. 10. 22 오후 10:18:31,13.3,김동현,0.0,nan,"ham, egg, boiled rice","pork, soju",ice cream,4919,,5,3514,"nan, ham, egg, boiled rice, pork, soju, ice cream",
+124,2023. 10. 22 오후 10:57:17,13.3,배우리,1.0,kimchi fried rice,rice cake,nan,ice americano*3,7316,,7,5226,"kimchi fried rice, rice cake, nan, ice americano*3",
+125,2023. 10. 22 오후 11:22:56,13.3,김현지,1.0,nan,yeol ramen,"French fries, zero coke",nan,2845,,6,2032,"nan, yeol ramen, French fries, zero coke, nan",
+126,2023. 10. 22 오후 11:52:34,13.3,서지윤,1.0,nan,tteokbokki,tteokbokki,nan,1036,,4,740,"nan, tteokbokki, tteokbokki, nan",
+127,2023. 10. 23,10.3,김현지,1.0,nan,wang tukong,"sushi 6p, zero coke",nan,7491,,9,5351,"nan, wang tukong, sushi 6p, zero coke, nan",
+128,2023. 10. 23,10.3,홍한별,1.0,nan,"tuna, kimchi, boiled rice",suchi set 1/2,Iced Café Latte,"9,301",,6,6644,"nan, tuna, kimchi, boiled rice, suchi set 1/2, Iced Café Latte",
+129,2023. 10. 23,10.3,김동현,1.0,"instant cup ramen, Chicken breast","grilled duck, boiled rice","chicken gangjeong, boiled rice",nan,6755,"스쿼트 : 227.5 x 2 / 205 x 5 / 200 x 4 / 190 x 5
+벤치프레스 : 127.5 x 2 / 117.5 x 5 / 115 x 5 / 110 x 5 / 105 x 5
+씰로우 : 40 x 12, 12, 12, 12
+머신 풀다운 : 40.5 x 12, 12, 12, 12",5,4825,"instant cup ramen, Chicken breast, grilled duck, boiled rice, chicken gangjeong, boiled rice, nan",
+130,2023. 10. 23 오전 12:12:33,10.3,오유진,1.0,nan,"boiled rice, pork","Kaimak, bread, lemon tea","ice cream, snack",10218,걷기 1시간,0,7299,"nan, boiled rice, pork, Kaimak, bread, lemon tea, ice cream, snack",
+131,2023. 10. 23 오전 2:32:46,10.3,김정윤,0.0,nan,"instant ramen, Chicken breast, shrimp",cream pasta,"ice americano, apple juice",4776,,5,3411,"nan, instant ramen, Chicken breast, shrimp, cream pasta, ice americano, apple juice",
+132,2023. 10. 23 오후 2:04:08,10.3,문선우,1.0,"banana, bagel","dumpling, noodles, chicken fried rice",fish,bungeoppang*2,24229,5km 달리기,1,17306,"banana, bagel, dumpling, noodles, chicken fried rice, fish, bungeoppang*2",
+133,2023. 10. 23 오후 10:06:58,10.3,배우리,1.0,hamgurger,nan,chicken gangjeong,ice americano*3,12523,,5,8945,"hamgurger, nan, chicken gangjeong, ice americano*3",
+134,2023. 10. 23 오후 11:28:39,10.3,서지윤,1.0,nan,tteokbokki,wang tukong,sausage,311,,6,222,"nan, tteokbokki, wang tukong, sausage",
+135,2023. 10. 24,8.1,김현지,1.0,nan,yeol ramen,"French fries, zero coke",iced tea with 1 shot,4573,,4,3266,"nan, yeol ramen, French fries, zero coke, iced tea with 1 shot",
+136,2023. 10. 24,8.1,김동현,0.0,"boiled rice, beef boiled down in soy sauce","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(sausage, kimchi fried rice + 온모밀), protein drink","gyeranmari, Chicken breast 100g, boiled rice, protein drink","chicken gangjeong, boiled rice",14370,걷기 1시간,7,10264,"boiled rice, beef boiled down in soy sauce, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(sausage, kimchi fried rice + 온모밀), protein drink, gyeranmari, Chicken breast 100g, boiled rice, protein drink, chicken gangjeong, boiled rice",
+137,2023. 10. 24,8.1,홍한별,1.0,Korean traditional ginseng porridge,Soy Sauce-glazed Salmon,tomato stew ,nan,"5,883",,7,4202,"Korean traditional ginseng porridge, Soy Sauce-glazed Salmon, tomato stew , nan",
+138,2023. 10. 24 오전 12:27:39,8.1,오유진,1.0,nan,nan,"soup, kimchi dumpling*4, boiled rice","cherry tomato, kiwi*2, iced tea",9202,걷기 1시간,3,6573,"nan, nan, soup, kimchi dumpling*4, boiled rice, cherry tomato, kiwi*2, iced tea",
+139,2023. 10. 24 오전 12:32:52,8.1,이채린,1.0,"boiled rice, beef boiled down in soy sauce",boiled rice,pasta,"Hazelnut Latte size up,iced tea, Shine musket",10000,,6,7143,"boiled rice, beef boiled down in soy sauce, boiled rice, pasta, Hazelnut Latte size up,iced tea, Shine musket",
+140,2023. 10. 24 오후 1:21:20,8.1,서지윤,1.0,nan,fried rice,"fried rice, Mocha Latte","coffee, bread",4450,,3,3179,"nan, fried rice, fried rice, Mocha Latte, coffee, bread",
+141,2023. 10. 24 오후 2:51:15,8.1,문선우,1.0,nan,"santa fe salad, fried egg","tomato soup, hot sauce fingerling potatoes",chocolate cookie*0.5,11524,,4,8231,"nan, santa fe salad, fried egg, tomato soup, hot sauce fingerling potatoes, chocolate cookie*0.5",
+142,2023. 10. 24 오후 8:43:48,8.1,고재경,0.0,ice americano,"boiled rice, instant noodles","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu rice cake만둣국",tteokbokki,10559,,4,7542,"ice americano, boiled rice, instant noodles, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu rice cake만둣국, tteokbokki",
+143,2023. 10. 24 오후 8:44:38,8.1,고재경,0.0,ice americano,Grilled pork kimchi,nan,hamburger,11500,,3,8214,"ice americano, Grilled pork kimchi, nan, hamburger",
+144,2023. 10. 24 오후 11:59:38,8.1,배우리,1.0,donut,yeol ramen,intestines,ice americano*4,8552,,6,6109,"donut, yeol ramen, intestines, ice americano*4",
+145,2023. 10. 25,9.2,이채린,1.0,Greek Yogurt 50g,Mala Soup,"hotdog, drink","chocolate, jelly",3800,,6,2714,"Greek Yogurt 50g, Mala Soup, hotdog, drink, chocolate, jelly",
+146,2023. 10. 25,9.2,홍한별,1.0,nan,egg bacon cheese sandwich,"boiled rice*2, pork belly 300g, Steamed Eggs",Greek Yogurt,"6,076",,4,4340,"nan, egg bacon cheese sandwich, boiled rice*2, pork belly 300g, Steamed Eggs, Greek Yogurt",
+147,2023. 10. 25 오전 12:10:55,9.2,이채린,1.0,"Salt bread, donut","boiled chiken, boiled rice",instant ramen,"Iced Café Latte, Shine musket",4300,,7,3071,"Salt bread, donut, boiled chiken, boiled rice, instant ramen, Iced Café Latte, Shine musket",
+148,2023. 10. 25 오전 2:41:08,9.2,강지연,1.0,nan,"salmon, egg soysauce rice",tteokbokki,ade,12742,"런닝머신 30분 
+레그프레스 45kg 15회 4세트 
+레그익스텐션 20kg 15회 4세트 
+힙어브덕션 35kg 15회 4세트 ",4,9101,"nan, salmon, egg soysauce rice, tteokbokki, ade",
+149,2023. 10. 25 오전 8:26:17,9.2,김정윤,0.0,Beef and Radish Soup,instant ramen,"chicken fry, beef soup",canned beer,7980,,4,5700,"Beef and Radish Soup, instant ramen, chicken fry, beef soup, canned beer",
+150,2023. 10. 25 오전 8:50:27,9.2,오유진,1.0,nan,"soup, dumpling*4, boiled rice",nan,"bread, snack, cherry tomato, ice cream",9601,걷기 1시간,1,6858,"nan, soup, dumpling*4, boiled rice, nan, bread, snack, cherry tomato, ice cream",
+151,2023. 10. 25 오후 3:53:23,9.2,문선우,1.0,toast,Croissant,Chicken Biryani Plate,"chocolate cookie, cookie, snack 2개, yakgwa 1개",19234,배드민턴 1시간 반,5,13739,"toast, Croissant, Chicken Biryani Plate, chocolate cookie, cookie, snack 2개, yakgwa 1개",
+152,2023. 10. 25 오후 5:14:47,9.2,서지윤,1.0,nan,"Buldak stir-fried noodles, zero coke",oil pasta,Oatmeal tuna porridge,4450,"러닝머신(인터벌) 32분 /
+랫풀다운 5kg 15번*1세트,
+               10kg 15번*2세트 /
+펙덱플라이 10kg 10번*3세트 /
+사이클 10분",2,3179,"nan, Buldak stir-fried noodles, zero coke, oil pasta, Oatmeal tuna porridge",
+153,2023. 10. 25 오후 7:55:50,9.2,김민서,1.0,nan,nurungji,doenjang stew,iced tea,11726,,3,8376,"nan, nurungji, doenjang stew, iced tea",
+154,2023. 10. 25 오후 10:02:27,9.2,배우리,1.0,nan,Fish Roe Rice,gyu-katsu,ice americano*3,15320,걷기 1시간,7,10943,"nan, Fish Roe Rice, gyu-katsu, ice americano*3",
+155,2023. 10. 25 오후 10:31:32,9.2,강지연,1.0,nan,mint choco latte,"egg soysauce rice, salmon",nan,15769,"런닝머신 30분 
+레그프레스 55kg 20회 4세트
+레그익스텐션 20kg 12회 4세트 
+힙어브덕션 35kg 15회 4세트 
+스쿼트 5kg 10회 5세트 
+배드민턴 2시간",2,11264,"nan, mint choco latte, egg soysauce rice, salmon, nan",
+156,2023. 10. 25 오후 11:40:40,9.2,오유진,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(설렁탕)",nan,"chocolate, cookie, matcha latte, tea",10828,,4,7734,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(설렁탕), nan, chocolate, cookie, matcha latte, tea",
+157,2023. 10. 25 오후 11:59:48,9.2,김현지,1.0,nan,yeol ramen,Pork Cutlet with Curry,iced tea with 1 shot,2347,,7,1676,"nan, yeol ramen, Pork Cutlet with Curry, iced tea with 1 shot",
+158,2023. 10. 26,6.5,김현지,1.0,nan,"rice, curry","cereal, milk",iced tea with 1 shot,3800,,7,2714,"nan, rice, curry, cereal, milk, iced tea with 1 shot",
+159,2023. 10. 26,6.5,홍한별,1.0,nan,Banquet Noodles,"cheese pizza, coke","hamburger, energe drink, ice americano","3,954",,7,2824,"nan, Banquet Noodles, cheese pizza, coke, hamburger, energe drink, ice americano",
+160,2023. 10. 26,6.5,김동현,0.0,nan,Jumbo Pork Cutlet,chicken gangjeong,nan,4971,,3,3551,"nan, Jumbo Pork Cutlet, chicken gangjeong, nan",
+161,2023. 10. 26 오후 1:02:16,6.5,문선우,1.0,banana,Oyakodon Chicken,Plant based Cottage Pie,"snack, yakgwa, chocolate cookie*1.5, popcorn*2",14607,,1,10434,"banana, Oyakodon Chicken, Plant based Cottage Pie, snack, yakgwa, chocolate cookie*1.5, popcorn*2",
+162,2023. 10. 26 오후 4:27:50,6.5,서지윤,1.0,nan,Jjamppong Sujebi,"hamburger, cheese bread",coffee,4200,,2,3000,"nan, Jjamppong Sujebi, hamburger, cheese bread, coffee",
+163,2023. 10. 26 오후 10:01:03,6.5,배우리,1.0,nan,Fish Roe Rice,pork belly,ice americano*2,7803,"걷기 30분, 자전거 20분",6,5574,"nan, Fish Roe Rice, pork belly, ice americano*2",
+164,2023. 10. 26 오후 10:12:33,6.5,김민서,1.0,nan,chicken boiled rice,spicy soup,drink,7307,,4,5219,"nan, chicken boiled rice, spicy soup, drink",
+165,2023. 10. 27,7.6,김현지,1.0,nan,nan,yeol ramen,nan,1278,,5,913,"nan, nan, yeol ramen, nan",
+166,2023. 10. 27,7.6,홍한별,1.0,nan,boiled chicken rice soup,"pork 300g, boiled rice*2","ice americano, strawberry milk","8,646",,4,6176,"nan, boiled chicken rice soup, pork 300g, boiled rice*2, ice americano, strawberry milk",
+167,2023. 10. 27,7.6,김동현,0.0,"protein bar, protein drink","gyeranmari, Chicken breast","pork, soju","sashimi, soju",6009,"데드리프트 265 x 4 / 260 x 4 / 260 x 4
+벤치프레스 145 x 1 / 135 x 3 / 130 x 3 / 125 x 3
+정지스쿼트 180 x 4 / 175 x 4 / 170 x 4 / 165 x 4
+코펜하겐 플랭크 30초 20초 20초 20초",0,4292,"protein bar, protein drink, gyeranmari, Chicken breast, pork, soju, sashimi, soju",
+168,2023. 10. 27 오전 1:32:12,7.6,이채린,1.0,Greek Yogurt 50g,banana milk,chicken,"chocolate, ice americano",4700,,6,3357,"Greek Yogurt 50g, banana milk, chicken, chocolate, ice americano",
+169,2023. 10. 27 오전 9:37:44,7.6,김정윤,0.0,nan,"noodles, pork cutlet","pizza, pasta",nan,10627,,3,7591,"nan, noodles, pork cutlet, pizza, pasta, nan",
+170,2023. 10. 27 오전 11:51:22,7.6,오유진,1.0,nan,"backbone soup, boiled rice, kimchi dumpling*4",nan,"kiwi*2, cherry tomato, snack",7287,걷기 1시간,0,5205,"nan, backbone soup, boiled rice, kimchi dumpling*4, nan, kiwi*2, cherry tomato, snack",
+171,2023. 10. 27 오후 2:52:25,7.6,문선우,1.0,"Turkey sandwich, oatmeal",bread,Carne Taco,"chocolate cookie*0.5, snack, m&m",10263,,0,7331,"Turkey sandwich, oatmeal, bread, Carne Taco, chocolate cookie*0.5, snack, m&m",
+172,2023. 10. 27 오후 4:46:53,7.6,서지윤,1.0,nan,"Pork Cutlet Stuffed with Cheese, Buldak stir-fried noodles",wang tukong,aloe juice,5591,,2,3994,"nan, Pork Cutlet Stuffed with Cheese, Buldak stir-fried noodles, wang tukong, aloe juice",
+173,2023. 10. 27 오후 8:38:02,7.6,김민서,1.0,nan,seolleongtang,pork,nan,9149,,2,6535,"nan, seolleongtang, pork, nan",
+174,2023. 10. 27 오후 11:39:24,7.6,배우리,1.0,nan,rice noodles,"braised spicy chicken, beef tripe",ice americano,6403,걷기 40분,3,4574,"nan, rice noodles, braised spicy chicken, beef tripe, ice americano",
+175,2023. 10. 28,11.3,김현지,1.0,nan,nan,instant cup ramen,"zero coke, iced tea",1029,,8,735,"nan, nan, instant cup ramen, zero coke, iced tea",
+176,2023. 10. 28,11.3,홍한별,1.0,nan,"Aglio e Olio Pasta, fried potato, orange juice","boiled pork slice, boiled rice, boiled rice",Greek Yogurt,"6,296",,5,4497,"nan, Aglio e Olio Pasta, fried potato, orange juice, boiled pork slice, boiled rice, boiled rice, Greek Yogurt",
+177,2023. 10. 28,11.3,김동현,0.0,nan,Meat Noodles,chicken gangjeong,nan,9535,걷기 30분,7,6811,"nan, Meat Noodles, chicken gangjeong, nan",
+178,2023. 10. 28 오전 12:09:04,11.3,이채린,1.0,Greek Yogurt,strawberry milk,bulgogi,nan,11000,,6,7857,"Greek Yogurt, strawberry milk, bulgogi, nan",
+179,2023. 10. 28 오후 2:49:57,11.3,문선우,1.0,"banana, bread",Chipotle(chicken bowl),Chicken biryani plate,"drink, snack, popcorn",24230,런닝머신 40분,2,17307,"banana, bread, Chipotle(chicken bowl), Chicken biryani plate, drink, snack, popcorn",
+180,2023. 10. 28 오후 4:33:32,11.3,오유진,1.0,nan,Pork Cutlet Stuffed with Sweet Potato and Cheese,nan,"chocolate, strawberry latte, ice cream",10164,,2,7260,"nan, Pork Cutlet Stuffed with Sweet Potato and Cheese, nan, chocolate, strawberry latte, ice cream",
+181,2023. 10. 28 오후 5:50:18,11.3,서지윤,1.0,nan,Oatmeal tuna porridge,chinese spicy stir-fry,"boiled rice,seaweed",176,,6,126,"nan, Oatmeal tuna porridge, chinese spicy stir-fry, boiled rice,seaweed",
+182,2023. 10. 28 오후 8:42:21,11.3,이채린,1.0,grape,Braised Chicken,fish cake,"Salt bread, iced tea",19400,,5,13857,"grape, Braised Chicken, fish cake, Salt bread, iced tea",
+183,2023. 10. 28 오후 11:32:52,11.3,배우리,1.0,nan,yeol ramen,Braised Chicken,nan,2179,,4,1556,"nan, yeol ramen, Braised Chicken, nan",
+184,2023. 10. 29,12.0,김현지,1.0,nan,nan,tteokbokki,"popcorn, zero coke",2091,,4,1494,"nan, nan, tteokbokki, popcorn, zero coke",
+185,2023. 10. 29,12.0,홍한별,1.0,nan,chicken boiled rice,"Braised Kimchi, boiled rice*2","Dakgalbi fried rice, sujebi*0.3","2,622",,8,1873,"nan, chicken boiled rice, Braised Kimchi, boiled rice*2, Dakgalbi fried rice, sujebi*0.3",
+186,2023. 10. 29 오전 12:07:55,12.0,고재경,0.0,tteokbokki,nan,nan,"pizza, beer",10387,,0,7419,"tteokbokki, nan, nan, pizza, beer",
+187,2023. 10. 29 오전 12:09:43,12.0,고재경,0.0,nan,taco,jokbal,soju,16435,"랫풀 5셋
+바벨로우 5셋
+시티드 로우 5셋
+암풀다운 5셋
+바벨이두컬 4셋
+케이블 푸쉬다운 6셋",0,11739,"nan, taco, jokbal, soju",
+188,2023. 10. 29 오전 2:10:19,12.0,오유진,1.0,nan,"boiled rice, fried food",nan,tea,12054,걷기 1시간,2,8610,"nan, boiled rice, fried food, nan, tea",
+189,2023. 10. 29 오전 7:24:55,12.0,김정윤,0.0,cereal,"bulgogi, doenjang stew",chicken,orange juice,7720,,2,5514,"cereal, bulgogi, doenjang stew, chicken, orange juice",
+190,2023. 10. 29 오후 10:20:01,12.0,서지윤,1.0,nan,instant noodles,Octopus Balls,iced tea,243,,4,174,"nan, instant noodles, Octopus Balls, iced tea",
+191,2023. 10. 29 오후 10:48:11,12.0,배우리,1.0,kimchi fried rice,fried rice,chicken gangjeong,nan,6528,걷기 40분,2,4663,"kimchi fried rice, fried rice, chicken gangjeong, nan",
+192,2023. 10. 29 오후 10:58:35,12.0,이채린,1.0,"bread, milk ",chopped noodles,"steamed beef, steamed vegetables",ice cream,9000,,2,6429,"bread, milk , chopped noodles, steamed beef, steamed vegetables, ice cream",
+193,2023. 10. 29 오후 11:43:29,12.0,김동현,0.0,nan,"Chicken breast, gyeranmari, boiled rice","ham, egg, boiled rice",protein drink,1802,,3,1287,"nan, Chicken breast, gyeranmari, boiled rice, ham, egg, boiled rice, protein drink",
+194,2023. 10. 30,12.2,서지윤,1.0,"oatmeal, milk",nan,chicken,nan,7109,,2,5078,"oatmeal, milk, nan, chicken, nan",
+195,2023. 10. 30,12.2,김현지,1.0,nan,nan,sushi 10p,nan,12060,,8,8614,"nan, nan, sushi 10p, nan",
+196,2023. 10. 30,12.2,홍한별,1.0,bagel,nan,"jokbal, beer",nan,"8,246",,9,5890,"bagel, nan, jokbal, beer, nan",
+197,2023. 10. 30 오전 12:27:21,12.2,문선우,1.0,"Biscuit bacon sandwich, fried eggs",nan,"cali bowl(poke), bread","watermelon, snack",22220,"Hip Abductor 23kg 3set
+Hip Adductor 18kg 2set, 23kg 1set
+Leg press 54kg 2set, 63kg 2set, 72kg 1set
+Prone leg curl 23kg 3set
+Chest press 18kg 2set, 10, 8
+Shoulder press 9kg 7, 8, 9
+Leg extentsion 23kg 2set, 27kg 1set, 10
+Lat pulldown 18kg 1set, 23kg 1set, 27kg 1set, 32kg 6
+Seated row 14kg 1set, 18kg 2set, 23kg 5",3,15871,"Biscuit bacon sandwich, fried eggs, nan, cali bowl(poke), bread, watermelon, snack",
+198,2023. 10. 30 오전 1:26:39,12.2,오유진,1.0,nan,nan,Beef brisket host with rice,"Caramel Popcorn, croiffle with ice cream 1/2, Iced Vanilla Latte",10375,,0,7411,"nan, nan, Beef brisket host with rice, Caramel Popcorn, croiffle with ice cream 1/2, Iced Vanilla Latte",
+199,2023. 10. 30 오후 12:02:40,12.2,문선우,1.0,peanut butter toast,tomato,Shortrib rice bowl,"cookie*0.5, cheese cake",8745,,3,6246,"peanut butter toast, tomato, Shortrib rice bowl, cookie*0.5, cheese cake",
+200,2023. 10. 30 오후 10:16:43,12.2,이채린,1.0,scone milk,doenjang stew,spicy soft-tofu stew,"energe drink, snack",8000,,3,5714,"scone milk, doenjang stew, spicy soft-tofu stew, energe drink, snack",
+201,2023. 10. 30 오후 11:10:21,12.2,배우리,1.0,nan,Fish Roe Rice,pork belly,Lemona,11424,"피겨 1시간 30분, 걷기 30분",2,8160,"nan, Fish Roe Rice, pork belly, Lemona",
+202,2023. 10. 31,8.1,이채린,1.0,"donut, milk",gimbap,"pork, boiled rice, doenjang stew","popcorn, snack , soju, sausage",7600,,2,5429,"donut, milk, gimbap, pork, boiled rice, doenjang stew, popcorn, snack , soju, sausage",
+203,2023. 10. 31,8.1,홍한별,1.0,nan,Mala Soup,"Pork Shoulder Pilaf, Chicken Cutlet, a dried seaweed roll볶음","banana, teriyaki entrails, Flying Fish Roe Rice Ball, Sprite","8,142",,7,5816,"nan, Mala Soup, Pork Shoulder Pilaf, Chicken Cutlet, a dried seaweed roll볶음, banana, teriyaki entrails, Flying Fish Roe Rice Ball, Sprite",
+204,2023. 10. 31 오전 2:26:11,8.1,강지연,1.0,nan,Chicken breast,bread*2,"ice americano, chicken gangjeong",12243,"런닝머신 20분
+레그프레스 55kg 20회 4세트 
+힙어브덕션 35kg 15회 4세트 
+레그익스텐션 20kg 12회 4세트 
+스쿼트 50개 
+데드리프트 20개 ",3,8745,"nan, Chicken breast, bread*2, ice americano, chicken gangjeong",
+205,2023. 10. 31 오전 10:53:28,8.1,오유진,1.0,nan,nan,Red pepper tuna young radish bibimbap,"snack, ice cream, Salt bread",10343,걷기 1시간,0,7388,"nan, nan, Red pepper tuna young radish bibimbap, snack, ice cream, Salt bread",
+206,2023. 10. 31 오후 3:54:21,8.1,서지윤,1.0,nan,bacon tomato pasta,"choco bread, ice americano",nan,5197,,1,3712,"nan, bacon tomato pasta, choco bread, ice americano, nan",
+207,2023. 10. 31 오후 10:19:32,8.1,김현지,1.0,hamburger,nan,udon,nan,6024,,7,4303,"hamburger, nan, udon, nan",
+208,2023. 10. 31 오후 11:03:39,8.1,배우리,1.0,nan,fried rice,udon,jelly*2,6243,걷기 40분,3,4459,"nan, fried rice, udon, jelly*2",
+209,2023. 11. 1,3.4,김현지,1.0,nan,bagel,wang tukong,iced tea tea with 1 shot,2660,,8,1900,"nan, bagel, wang tukong, iced tea tea with 1 shot",
+210,2023. 11. 1,3.4,홍한별,1.0,nan,burger set,"sashimi, soju",nan,"7,452",,7,5323,"nan, burger set, sashimi, soju, nan",
+211,2023. 11. 1 오전 12:20:30,3.4,오유진,1.0,nan,"dumpling soup, boiled rice",Marong whipped cream bread,kiwi*3,9064,걷기 1시간,0,6474,"nan, dumpling soup, boiled rice, Marong whipped cream bread, kiwi*3",
+212,2023. 11. 1 오전 2:10:05,3.4,강지연,1.0,nan,"sandwich, ice americano",instant ramen,"chicken gangjeong, chocolate bar",13402,,3,9573,"nan, sandwich, ice americano, instant ramen, chicken gangjeong, chocolate bar",
+213,2023. 11. 1 오전 8:17:37,3.4,김정윤,0.0,nan,1955 burger,curry,coke,9634,"웨이트 트레이닝 1시간 20분 풀업 어시스트 머신, 랫플다운, 시티드로우, 데드리프트, 사레레",5,6881,"nan, 1955 burger, curry, coke",
+214,2023. 11. 1 오후 12:43:04,3.4,김동현,0.0,"protein cookie, protein bar, protein drink",pizza*5,pizza*3,nan,13764,걷기 1시간,4,9831,"protein cookie, protein bar, protein drink, pizza*5, pizza*3, nan",
+215,2023. 11. 1 오후 4:26:30,3.4,서지윤,1.0,nan,"egg bacon toast, lime ade","beer, beef tartare, Braised Spicy Chicken",nan,12965,,2,9261,"nan, egg bacon toast, lime ade, beer, beef tartare, Braised Spicy Chicken, nan",
+216,2023. 11. 1 오후 9:14:41,3.4,이채린,1.0,nan,"gimbap 1/2, instant ramen",Shabu-shabu,"Iced Café Latte, ice cream",10000,,7,7143,"nan, gimbap 1/2, instant ramen, Shabu-shabu, Iced Café Latte, ice cream",
+217,2023. 11. 1 오후 10:23:22,3.4,배우리,1.0,nan,nan,chopped roast chicken's foot,nan,9211,"걷기 50분, 사이클 10분",2,6579,"nan, nan, chopped roast chicken's foot, nan",
+218,2023. 11. 1 오후 11:01:18,3.4,김민서,1.0,nan,Stir-fried Pork with Rice,Ciabatta Sandwich,Grapefruit Ade,10946,,4,7819,"nan, Stir-fried Pork with Rice, Ciabatta Sandwich, Grapefruit Ade",
+219,2023. 11. 2,7.2,홍한별,1.0,nan,Dumpling ramen,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","Energy Drink, Grilled Intestines, jeon","8,791",필라테스 50분,4,6279,"nan, Dumpling ramen, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, Energy Drink, Grilled Intestines, jeon",
+220,2023. 11. 2,7.2,김현지,1.0,nan,nan,cheese port cutlet curry,Iced Vanilla Latte,4042,,5,2887,"nan, nan, cheese port cutlet curry, Iced Vanilla Latte",
+221,2023. 11. 2 오전 1:00:43,7.2,김정윤,0.0,taco,sandwich,"pork, soju","ice americano large, protein max yogert",10855,,2,7754,"taco, sandwich, pork, soju, ice americano large, protein max yogert",
+222,2023. 11. 2 오전 3:04:12,7.2,문선우,1.0,"pork stew, boiled rice",peanut butter sandwich,pizza*2,carrot cake,11223,,3,8016,"pork stew, boiled rice, peanut butter sandwich, pizza*2, carrot cake",
+223,2023. 11. 2 오전 3:05:36,7.2,문선우,1.0,cupbap,nan,"shin ramen, pork belly","cookie*0.5, chocolate*4, popcorn",17506,,4,12504,"cupbap, nan, shin ramen, pork belly, cookie*0.5, chocolate*4, popcorn",
+224,2023. 11. 2 오전 3:36:43,7.2,강지연,1.0,nan,nan,"Fried Bean Curd Rice Ball, instant cup ramen",cereal,19214,배드민턴 2시간 30분 ,5,13724,"nan, nan, Fried Bean Curd Rice Ball, instant cup ramen, cereal",
+225,2023. 11. 2 오전 4:03:09,7.2,오유진,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(불고기비빔boiled rice)",nan,"iced tea, Iced Vanilla Latte, snack",9819,,0,7014,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(불고기비빔boiled rice), nan, iced tea, Iced Vanilla Latte, snack",
+226,2023. 11. 2 오후 1:55:19,7.2,문선우,1.0,cupbap,peanut butter toast,"bread, dumpling",nan,17075,,3,12196,"cupbap, peanut butter toast, bread, dumpling, nan",
+227,2023. 11. 2 오후 7:58:36,7.2,김현지,1.0,nan,"French fries, Chicken Tenders",Pork Cutlet with Curry,Iced Vanilla Latte,4032,,6,2880,"nan, French fries, Chicken Tenders, Pork Cutlet with Curry, Iced Vanilla Latte",
+228,2023. 11. 2 오후 9:41:27,7.2,김민서,1.0,nan,sandwich,"tteokbokki, deep-fried vegetables",nan,10946,,2,7819,"nan, sandwich, tteokbokki, deep-fried vegetables, nan",
+229,2023. 11. 2 오후 9:59:36,7.2,고재경,0.0,nan,pizza,nan,"soju*2, sashimi, fish stew",14242,,0,10173,"nan, pizza, nan, soju*2, sashimi, fish stew",
+230,2023. 11. 2 오후 10:01:55,7.2,배우리,1.0,nan,pizza,Thigh burger,ice americano*2,10700,걷기 40분,4,7643,"nan, pizza, Thigh burger, ice americano*2",
+231,2023. 11. 2 오후 11:41:19,7.2,서지윤,1.0,nan,fried rice,"instant cup ramen, toreta",tanghulu,4314,,7,3081,"nan, fried rice, instant cup ramen, toreta, tanghulu",
+232,2023. 11. 3,4.7,김현지,1.0,nan,"cheese port cutlet, curry","boiled rice, bulgogi, 전, shrimp",nan,4067,,3,2905,"nan, cheese port cutlet, curry, boiled rice, bulgogi, 전, shrimp, nan",
+233,2023. 11. 3,4.7,홍한별,1.0,nan,"relish hotdog, ice americano large","Grilled pork kimchi, boiled rice*2",Iced Café Latte,6 460,,7,#VALUE!,"nan, relish hotdog, ice americano large, Grilled pork kimchi, boiled rice*2, Iced Café Latte",
+234,2023. 11. 3 오전 10:04:17,4.7,김정윤,0.0,nan,Meat Noodles,"chickenrice, bulgogi","energy drink, donut",14435,,4,10311,"nan, Meat Noodles, chickenrice, bulgogi, energy drink, donut",
+235,2023. 11. 3 오후 2:32:14,4.7,김동현,0.0,nan,Meat Noodles,"pizza, chicken, beer",soju,6830,,7,4879,"nan, Meat Noodles, pizza, chicken, beer, soju",
+236,2023. 11. 3 오후 2:36:21,4.7,고재경,0.0,hamburger,instant cup ramen,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu",gimbap,19500,,0,13929,"hamburger, instant cup ramen, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, gimbap",
+237,2023. 11. 3 오후 4:00:24,4.7,문선우,1.0,"Biscuit bacon sandwich, hash browns",donut,Beef noodle soup,nan,18582,런닝머신 25분,2,13273,"Biscuit bacon sandwich, hash browns, donut, Beef noodle soup, nan",
+238,2023. 11. 3 오후 5:03:49,4.7,오유진,1.0,nan,"Cream Cheese onion bagel, latte",nan,"croiffle with ice cream *0.5, potato chip, ice cream, jelly",12211,걷기 1시간,2,8722,"nan, Cream Cheese onion bagel, latte, nan, croiffle with ice cream *0.5, potato chip, ice cream, jelly",
+239,2023. 11. 3 오후 10:00:53,4.7,배우리,1.0,nan,shin ramen,jjamppong,soda water,11892,걷기 1시간 20분,1,8494,"nan, shin ramen, jjamppong, soda water",
+240,2023. 11. 4,6.8,홍한별,1.0,nan,"boiled rice*1.5, pork belly 200g","boiled rice, Grilled Hairtail",yogert ice cream,"4,164",필라테스 50분,3,2974,"nan, boiled rice*1.5, pork belly 200g, boiled rice, Grilled Hairtail, yogert ice cream",
+241,2023. 11. 4,6.8,김현지,1.0,nan,nan,"beef tartare, fish cake탕, soju*3",nan,2310,,3,1650,"nan, nan, beef tartare, fish cake탕, soju*3, nan",
+242,2023. 11. 4 오전 1:28:18,6.8,이채린,1.0,nan,"pizza, coke","cheese stick, coke","latte, sweetpotato pie ",23000,,2,16429,"nan, pizza, coke, cheese stick, coke, latte, sweetpotato pie ",
+243,2023. 11. 4 오전 2:09:14,6.8,오유진,1.0,nan,nan,"Young Summer Radish Kimchi Bibimbap, 계란스크램블","mandarin, Iced Vanilla Latte*2",6960,,0,4971,"nan, nan, Young Summer Radish Kimchi Bibimbap, 계란스크램블, mandarin, Iced Vanilla Latte*2",
+244,2023. 11. 4 오후 1:49:07,6.8,문선우,1.0,BLT bagel,"Fried Rice, Honey sesami chicken",nan,"popcorn*2, pocky",17815,"Hip Abductor 23kg 1set
+Hip Adductor 23kg 1set
+Chest press 18kg 1set, 9, 11
+Shoulder press 9kg 10, 11, 10
+Leg extentsion 27kg 1set
+Lat pulldown 32kg 9, 10, 8
+Seated row 23kg 8, 7
+Lateral Raise 4.5kg 8",4,12725,"BLT bagel, Fried Rice, Honey sesami chicken, nan, popcorn*2, pocky",
+245,2023. 11. 4 오후 8:43:44,6.8,서지윤,1.0,nan,instant ramen,fried rice,tanghulu,4872,,4,3480,"nan, instant ramen, fried rice, tanghulu",
+246,2023. 11. 4 오후 8:44:24,6.8,서지윤,1.0,nan,dumpling,"pizza, beer, chicken",Shaved Ice with Mango,2679,,5,1914,"nan, dumpling, pizza, beer, chicken, Shaved Ice with Mango",
+247,2023. 11. 4 오후 11:19:42,6.8,배우리,1.0,nan,chicken,Braised Kimchi,mango jelly,8771,걷기 25분,2,6265,"nan, chicken, Braised Kimchi, mango jelly",
+248,2023. 11. 5,5.3,홍한별,1.0,nan,"boiled chicken soup, boiled rice*0.5",greek yogert,nan,"2,643",,7,1888,"nan, boiled chicken soup, boiled rice*0.5, greek yogert, nan",
+249,2023. 11. 5,5.3,김현지,1.0,nan,"shin ramen, boiled rice",vegetable soup,nan,3827,,8,2734,"nan, shin ramen, boiled rice, vegetable soup, nan",
+250,2023. 11. 5 오후 6:27:06,5.3,김정윤,0.0,instant ramen,sandwich,"fried dumpling, rice cake국",ice americano,4067,웨이트 트레이닝 1시간 (등),3,2905,"instant ramen, sandwich, fried dumpling, rice cake국, ice americano",
+251,2023. 11. 5 오후 7:48:32,5.3,오유진,1.0,nan,"Braised Kimchi, boiled rice*2","instant cup ramen, chicken *0.5",choco snack,3284,,0,2346,"nan, Braised Kimchi, boiled rice*2, instant cup ramen, chicken *0.5, choco snack",
+252,2023. 11. 5 오후 10:01:19,5.3,배우리,1.0,소불고기,nan,Deep-fried Dish Udon,mandarin*2,7962,걷기 45분,1,5687,"소불고기, nan, Deep-fried Dish Udon, mandarin*2",
+253,2023. 11. 5 오후 10:57:18,5.3,서지윤,1.0,nan,Oatmeal tuna porridge,"Oatmeal tuna porridge, gyeranmari",chicken gangjeong,1675,,2,1196,"nan, Oatmeal tuna porridge, Oatmeal tuna porridge, gyeranmari, chicken gangjeong",
+254,2023. 11. 6,12.7,김현지,1.0,nan,"Banquet Noodles, pork cutlet",Pork Cutlet with Curry,nan,2864,,6,2046,"nan, Banquet Noodles, pork cutlet, Pork Cutlet with Curry, nan",
+255,2023. 11. 6,12.7,홍한별,1.0,nan,"Banquet Noodles, pork cutlet","pork belly, boiled rice*1.5",nan,"5,129",,6,3664,"nan, Banquet Noodles, pork cutlet, pork belly, boiled rice*1.5, nan",
+256,2023. 11. 6 오전 1:32:29,12.7,오유진,1.0,nan,Braised Kimchi,bread,"ice cream, jelly",9338,걷기 1시간,0,6670,"nan, Braised Kimchi, bread, ice cream, jelly",
+257,2023. 11. 6 오후 3:28:15,12.7,문선우,1.0,"Chocolate Muffin, yogert",sandwich,hotdog*2,orange juice,18538,Cave Hiking,1,13241,"Chocolate Muffin, yogert, sandwich, hotdog*2, orange juice",
+258,2023. 11. 6 오후 3:29:45,12.7,문선우,1.0,"Turkey sausage*3, egg, 팬케이크 2개",Pecan Pie,"Turkey, potato, vegetable, muffin",nan,22901,Hiking,2,16358,"Turkey sausage*3, egg, 팬케이크 2개, Pecan Pie, Turkey, potato, vegetable, muffin, nan",
+259,2023. 11. 6 오후 9:53:20,12.7,김민서,1.0,nan,bagel sandwich,Chicken Cutlet,nan,5305,C,2,3789,"nan, bagel sandwich, Chicken Cutlet, nan",
+260,2023. 11. 6 오후 10:22:48,12.7,배우리,1.0,nan,nan,sandwich,"ice americano, green grape",12230,"피겨 1시간 30분, 걷기 40분",1,8736,"nan, nan, sandwich, ice americano, green grape",
+261,2023. 11. 6 오후 10:55:55,12.7,서지윤,1.0,nan,beef tartare bibimbap,"kimchi fried rice 1/4, beer","blueberry, Iced Vanilla Latte",4234,,1,3024,"nan, beef tartare bibimbap, kimchi fried rice 1/4, beer, blueberry, Iced Vanilla Latte",
+262,2023. 11. 7,6.3,김현지,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(스팸마요덮boiled rice, 우동국물, 배추김치)","pizza*3, pasta",nan,7897,,7,5641,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(스팸마요덮boiled rice, 우동국물, 배추김치), pizza*3, pasta, nan",
+263,2023. 11. 7,6.3,홍한별,1.0,nan,"ham, boiled rice, soup","pasta*0.5, fried potato, zero Sprite",jokbal,"10,497",,9,7498,"nan, ham, boiled rice, soup, pasta*0.5, fried potato, zero Sprite, jokbal",
+264,2023. 11. 7 오전 12:44:55,6.3,김동현,0.0,nan,"Paldo Bibim Men *1.5, Chicken breast 200g",Grilled pork kimchi,nan,7908,"스쿼트 : 150 x 10 / 155 x 10 / 130 x 5, 5, 5
+벤치프레스 : 90 x 10, 10 / 70 x 5, 5 / 60 x 5
+OHP : 40 x 10 / 45 x 10 / 50 x 10, 10",6,5649,"nan, Paldo Bibim Men *1.5, Chicken breast 200g, Grilled pork kimchi, nan",
+265,2023. 11. 7 오전 1:44:59,6.3,오유진,1.0,nan,nan,"tuna, Egg Scramble, boiled rice","Sesame Stick, iced tea",8746,걷기 1시간,0,6247,"nan, nan, tuna, Egg Scramble, boiled rice, Sesame Stick, iced tea",
+266,2023. 11. 7 오후 4:45:45,6.3,문선우,1.0,Peanut butter toast,bread*2,Cali bowl(poke),"pocky, chocolate",10907,,4,7791,"Peanut butter toast, bread*2, Cali bowl(poke), pocky, chocolate",
+267,2023. 11. 7 오후 10:11:08,6.3,배우리,1.0,sandwich,nan,"chicken, beer",nan,9390,"사이클 10분, 걷기 40분",6,6707,"sandwich, nan, chicken, beer, nan",
+268,2023. 11. 7 오후 10:17:29,6.3,서지윤,1.0,nan,Buldak stir-fried noodles,"Dalgona, Toffee Nut Latte",nan,5897,,3,4212,"nan, Buldak stir-fried noodles, Dalgona, Toffee Nut Latte, nan",
+269,2023. 11. 8,14.3,김동현,0.0,nan,"instant cup ramen 1.5, Chicken breast 200g","pork kimchi stew, boiled rice","sashimi, soju",6183,"데드리프트 180 x 10 / 190 x 10
+플로어프레스 100 x 6 / 105 x 6 / 110 x 6, 6
+기타 보조들",3,4416,"nan, instant cup ramen 1.5, Chicken breast 200g, pork kimchi stew, boiled rice, sashimi, soju",
+270,2023. 11. 08,14.3,서지윤,1.0,nan,sweet potato,tteokbokki,nan,4708,,6,3363,"nan, sweet potato, tteokbokki, nan",
+271,2023. 11. 8,14.3,홍한별,1.0,"bagel, ice americano large",nan,"Braised Kimchi, boiled rice","mandarin*2, sashimi, fish stew, soju","7,876",,8,5626,"bagel, ice americano large, nan, Braised Kimchi, boiled rice, mandarin*2, sashimi, fish stew, soju",
+272,2023. 11. 8 오전 12:33:28,14.3,오유진,1.0,nan,"spam, boiled rice, kimchi",nan,"iced tea*2, potato chip, ice cream",9014,걷기 1시간,0,6439,"nan, spam, boiled rice, kimchi, nan, iced tea*2, potato chip, ice cream",
+273,2023. 11. 8 오전 12:49:10,14.3,이채린,1.0,"sandwich 1/2, iced tea",steam boat,chicken,"snack, Matcha Latte, cake",10300,,7,7357,"sandwich 1/2, iced tea, steam boat, chicken, snack, Matcha Latte, cake",
+274,2023. 11. 8 오전 12:54:51,14.3,강지연,1.0,nan,spam mayo boiled rice,cream Risotto,"ice americano, Bacchus, choco pie",15143,,7,10816,"nan, spam mayo boiled rice, cream Risotto, ice americano, Bacchus, choco pie",
+275,2023. 11. 8 오후 8:40:05,14.3,김민서,1.0,nan,Hamburg Steak,"tuna, vegetable, boiled rice",iced tea,7623,,2,5445,"nan, Hamburg Steak, tuna, vegetable, boiled rice, iced tea",
+276,2023. 11. 8 오후 9:35:33,14.3,이채린,1.0,"cereal, milk",pastas,Pork neck,milk tea,11000,,2,7857,"cereal, milk, pastas, Pork neck, milk tea",
+277,2023. 11. 8 오후 10:00:49,14.3,배우리,1.0,nan,noodles,"instant ramen, beer",choco pie,6960,걷기 30분,2,4971,"nan, noodles, instant ramen, beer, choco pie",
+278,2023. 11. 8 오후 10:17:51,14.3,김현지,1.0,nan,"boiled rice, curry",wang tukong,nan,4410,,3,3150,"nan, boiled rice, curry, wang tukong, nan",
+279,2023. 11. 9,12.5,홍한별,1.0,nan,"Grilled pork kimchi, boiled rice","boiled rice, pork belly, Pork neck, soju",nan,"12,637",,2,9026,"nan, Grilled pork kimchi, boiled rice, boiled rice, pork belly, Pork neck, soju, nan",
+280,2023. 11. 9,12.5,김동현,0.0,"장braised food, Chicken breast, boiled rice",protein shake*2,nan,soju,6133,,7,4381,"장braised food, Chicken breast, boiled rice, protein shake*2, nan, soju",
+281,2023. 11. 09,12.5,서지윤,1.0,nan,tteokbokki,"kimchi stew, gyeranmari, instant noodles, coke",Iced Vanilla Latte,14817,,2,10584,"nan, tteokbokki, kimchi stew, gyeranmari, instant noodles, coke, Iced Vanilla Latte",
+282,2023. 11. 9 오전 12:50:46,12.5,서지윤,1.0,nan,Mala Soup,"spicy noodles, whelk, Deep-fried Squid, soju","beer 1/2, snack",2027,,1,1448,"nan, Mala Soup, spicy noodles, whelk, Deep-fried Squid, soju, beer 1/2, snack",
+283,2023. 11. 9 오전 1:11:05,12.5,오유진,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(제육덮boiled rice)",nan,"tea, Iced Vanilla Latte*2, snack, ricesnack",10022,,1,7159,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(제육덮boiled rice), nan, tea, Iced Vanilla Latte*2, snack, ricesnack",
+284,2023. 11. 9 오전 2:28:30,12.5,문선우,1.0,Biscuit bacon sandwich,bread*2,"intestines, beef intestines, beef","popcorn, snack",19585,런닝머신 30분,2,13989,"Biscuit bacon sandwich, bread*2, intestines, beef intestines, beef, popcorn, snack",
+285,2023. 11. 9 오전 10:40:56,12.5,김정윤,0.0,"gimbap, instant ramen","curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu (육칼, 소세지전, 두부braised food)",Braised Kimchi,"energy drink, beer 500cc",12380,,4,8843,"gimbap, instant ramen, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu (육칼, 소세지전, 두부braised food), Braised Kimchi, energy drink, beer 500cc",
+286,2023. 11. 9 오후 10:08:02,12.5,배우리,1.0,nan,jajangmyeon,backbone spicy soup,"tart, blueberry yogurt",15429,걷기 50분,1,11021,"nan, jajangmyeon, backbone spicy soup, tart, blueberry yogurt",
+287,2023. 11. 10,8.6,김현지,1.0,nan,"hamburger, French fries, zero coke","cereal, milk",chocolate latte,2769,,4,1978,"nan, hamburger, French fries, zero coke, cereal, milk, chocolate latte",
+288,2023. 11. 10,8.6,서지윤,1.0,nan,fried rice,"instant cup ramen, zero coke",nan,1606,,6,1147,"nan, fried rice, instant cup ramen, zero coke, nan",
+289,2023. 11. 10,8.6,홍한별,1.0,nan,"fried chicken, coke, kimchi dumpling*4","pizza, French fries, beer",nan,"7,186",,4,5133,"nan, fried chicken, coke, kimchi dumpling*4, pizza, French fries, beer, nan",
+290,2023. 11. 10 오전 1:01:25,8.6,문선우,1.0,nan,Four Cheese Pizza,nan,blue berry,11258,,5,8041,"nan, Four Cheese Pizza, nan, blue berry",
+291,2023. 11. 10 오전 10:37:02,8.6,김정윤,0.0,protein drink,spicy braised beef,"beef, boiled rice, bean sprouts soup",ice americano,9279,"레그프레스80~120kg, 레그 익스텐션 40~60kg, 힙 어브덕션 40, 몽키스쿼트",4,6628,"protein drink, spicy braised beef, beef, boiled rice, bean sprouts soup, ice americano",
+292,2023. 11. 10 오전 11:16:24,8.6,홍한별,1.0,nan,tteokbokki,doenjang stew,choco pie,8133,배드민턴 3시간,2,5809,"nan, tteokbokki, doenjang stew, choco pie",
+293,2023. 11. 10 오후 2:48:04,8.6,오유진,1.0,nan,Young Summer Radish Kimchi Bibimbap,nan,"Caramel Popcorn, ice cream",9438,걷기 1시간,2,6741,"nan, Young Summer Radish Kimchi Bibimbap, nan, Caramel Popcorn, ice cream",
+294,2023. 11. 10 오후 8:12:07,8.6,문선우,1.0,Drunken noodles,bread,KBBQ,chocolate cookie,10383,,2,7416,"Drunken noodles, bread, KBBQ, chocolate cookie",
+295,2023. 11. 10 오후 10:36:15,8.6,배우리,1.0,nan,nan,"chicken, tteokbokki",nan,13487,걷기 40분,3,9634,"nan, nan, chicken, tteokbokki, nan",
+296,2023. 11. 11,8.6,김현지,1.0,nan,"Octopus Balls, instant noodles","Octopus Balls, shin ramen",nan,1657,,6,1184,"nan, Octopus Balls, instant noodles, Octopus Balls, shin ramen, nan",
+297,2023. 11. 11,8.6,서지윤,1.0,nan,Braised Kimchi,Braised Kimchi,nan,4710,,4,3364,"nan, Braised Kimchi, Braised Kimchi, nan",
+298,2023. 11. 11,8.6,홍한별,1.0,nan,"beef steak, boiled rice","fried chicken, coke,  kimchi dumpling*4",pineapple,"2,492",필라테스 50분,8,1780,"nan, beef steak, boiled rice, fried chicken, coke,  kimchi dumpling*4, pineapple",
+299,2023. 11. 11 오전 1:41:47,8.6,이채린,1.0,nan,hotdog,"braised spicy chicken, beef tripe, boiled rice",dumpling*1.5,7000,,3,5000,"nan, hotdog, braised spicy chicken, beef tripe, boiled rice, dumpling*1.5",
+300,2023. 11. 11 오후 2:30:14,8.6,김정윤,0.0,nan,"kimchi fried rice, noodle","pork belly, fried rice, doenjang stew",cocktail,11900,,3,8500,"nan, kimchi fried rice, noodle, pork belly, fried rice, doenjang stew, cocktail",
+301,2023. 11. 11 오후 3:14:18,8.6,문선우,1.0,bread,Chicken bowl,French fries,"popcorn, Jasmin green tea",12494,,2,8924,"bread, Chicken bowl, French fries, popcorn, Jasmin green tea",
+302,2023. 11. 11 오후 10:00:52,8.6,배우리,1.0,순댓국,nan,kimchi fried rice,"snack, ice americano*2",6432,걷기 20분,1,4594,"순댓국, nan, kimchi fried rice, snack, ice americano*2",
+303,2023. 11. 11 오후 11:12:10,8.6,오유진,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(sweet and sour pork, 짜장boiled rice)",nan,"Iced Vanilla Latte*2, snack",10059,,0,7185,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(sweet and sour pork, 짜장boiled rice), nan, Iced Vanilla Latte*2, snack",
+304,2023. 11. 12,7.7,김현지,1.0,nan,nan,Pork Cutlet with Curry,chocosongi,2017,,5,1441,"nan, nan, Pork Cutlet with Curry, chocosongi",
+305,2023. 11. 12,7.7,서지윤,1.0,nan,pasta,"jjamppong, dumpling",snack,6228,,8,4449,"nan, pasta, jjamppong, dumpling, snack",
+306,2023. 11. 12,7.7,홍한별,1.0,jin ramen,"pork belly, boiled rice","steam boat, chopped noodles, fried rice",nan,"3,069",,5,2192,"jin ramen, pork belly, boiled rice, steam boat, chopped noodles, fried rice, nan",
+307,2023. 11. 12 오전 1:48:39,7.7,오유진,1.0,nan,nan,"suchi, fried food",snack,8576,걷기 1시간,1,6126,"nan, nan, suchi, fried food, snack",
+308,2023. 11. 12 오후 1:09:31,7.7,문선우,1.0,nan,Spam mayo rice with rice,Chicken Biryani Plate,"snack, chocolate cookie",4165,"힙 어브덕션 머신
+1세트: 27kg 12회 
+2세트: 27kg 12회 
+3세트: 27kg 12회 
+
+이너 싸이 머신
+1세트: 23kg 12회 
+2세트: 23kg 12회 
+3세트: 23kg 12회 
+
+레그 프레스
+1세트: 63kg 12회 
+2세트: 63kg 12회 
+3세트: 72kg 12회 
+
+체스트 프레스 머신
+1세트: 18kg 12회 
+2세트: 18kg 10회 
+3세트: 18kg 10회 
+
+레그 컬
+1세트: 23kg 12회 
+2세트: 27kg 10회 
+3세트: 27kg 9회 
+
+숄더 프레스 머신
+1세트: 9kg 8회 
+2세트: 9kg 7회 
+3세트: 9kg 5회 
+
+레그 익스텐션
+1세트: 27kg 12회 
+2세트: 27kg 12회 
+3세트: 32kg 9회 
+
+랫풀다운
+1세트: 32kg 8회 
+2세트: 32kg 8회 
+3세트: 32kg 10회 
+
+시티드 로우 머신
+1세트: 23kg 10회 
+2세트: 23kg 8회 
+
+펙덱 플라이 머신
+1세트: 14kg 12회 
+",4,2975,"nan, Spam mayo rice with rice, Chicken Biryani Plate, snack, chocolate cookie",
+309,2023. 11. 12 오후 11:44:55,7.7,배우리,1.0,bean sprouts soup,instant noodles,nan,snack,4734,걷기 10분,4,3381,"bean sprouts soup, instant noodles, nan, snack",
+310,2023. 11. 13,8.9,이채린,1.0,"sandwich, grape juice",nan,pork,sweet potato cake,6000,,2,4286,"sandwich, grape juice, nan, pork, sweet potato cake",
+311,2023. 11. 13,8.9,김현지,1.0,nan,"wang tukong, boiled rice",nan,"Bacchus, Sprite zero",1048,,5,749,"nan, wang tukong, boiled rice, nan, Bacchus, Sprite zero",
+312,2023. 11. 13,8.9,서지윤,1.0,nan,chocolate milk,"apple ade, ham, cheese, bacon, bread",Buldak stir-fried noodles,3130,,5,2236,"nan, chocolate milk, apple ade, ham, cheese, bacon, bread, Buldak stir-fried noodles",
+313,2023. 11. 13,,홍한별,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","beef, boiled rice",fried chicken,"5,405",,9,3861,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, beef, boiled rice, fried chicken",
+314,2023. 11. 13 오전 3:40:43,8.9,오유진,1.0,nan,chopped noodles,nan,"ice cream vanilla latte, snack",13566,"등산1시간, 산책1시간",0,9690,"nan, chopped noodles, nan, ice cream vanilla latte, snack",
+315,2023. 11. 13 오후 10:11:52,8.9,배우리,1.0,nan,nan,nan,nan,12774,"피겨 1시간 30분, 걷기 40분",2,9124,"nan, nan, nan, nan",
+316,2023. 11. 14,11.6,김현지,1.0,nan,"boiled rice, seaweed, Udon",sushi 5p,Iced Vanilla Latte,9819,,8,7014,"nan, boiled rice, seaweed, Udon, sushi 5p, Iced Vanilla Latte",
+317,2023. 11. 14,11.6,서지윤,1.0,nan,"korean blood sausage soup, boiled rice",tteokbokki,"latte, pudding",3987,,4,2848,"nan, korean blood sausage soup, boiled rice, tteokbokki, latte, pudding",
+318,2023. 11. 14,,홍한별,1.0,nan,"Chicken mayo kimchi rice with rice, 꼬지fish cake국수, 고구마맛탕, yogurt","bagel 1/2, beef steak, boiled rice",nan,"8,192",,7,5851,"nan, Chicken mayo kimchi rice with rice, 꼬지fish cake국수, 고구마맛탕, yogurt, bagel 1/2, beef steak, boiled rice, nan",
+319,2023. 11. 14 오전 1:54:02,11.6,고재경,0.0,"beef, boiled rice",coffee,"tteokbokki, boiled rice",nan,10395,,2,7425,"beef, boiled rice, coffee, tteokbokki, boiled rice, nan",
+320,2023. 11. 14 오전 1:55:38,11.6,고재경,0.0,nan,"kimchi stew, bulgogi",instant noodles,nan,17670,"랫풀 7셋
+암풀다운 5셋
+시티드로우 5셋
+바벨로우 6셋
+케이블푸쉬다운 6셋
+암컬 5셋",1,12621,"nan, kimchi stew, bulgogi, instant noodles, nan",
+321,2023. 11. 14 오전 3:09:47,11.6,문선우,1.0,"stir-fried spicy pork, boiled rice, sea mustard soup",nan,Cali bowl(poke),nan,8107,,1,5791,"stir-fried spicy pork, boiled rice, sea mustard soup, nan, Cali bowl(poke), nan",
+322,2023. 11. 14 오후 3:26:02,11.6,문선우,1.0,nan,pizza,curry,"twix, boba",8304,,3,5931,"nan, pizza, curry, twix, boba",
+323,2023. 11. 14 오후 10:10:38,11.6,배우리,1.0,nan,fried rice,beef,nan,8609,"걷기 30분, 사이클 10분",4,6149,"nan, fried rice, beef, nan",
+324,2023. 11. 15,10.5,김현지,1.0,nan,hotdog,shin ramen,iced tea with 1 shot,4957,,5,3541,"nan, hotdog, shin ramen, iced tea with 1 shot",
+325,2023. 11. 15,10.5,서지윤,1.0,nan,tteokbokki,"pork, spicy soft-tofu stew",nan,3733,,2,2666,"nan, tteokbokki, pork, spicy soft-tofu stew, nan",
+326,2023. 11. 15,10.5,홍한별,1.0,nan,"relish hotdog, ice americano large","chicken, coke","seafood, japanese alchol","11,545",피겨 1시간27분,8,8246,"nan, relish hotdog, ice americano large, chicken, coke, seafood, japanese alchol",
+327,2023. 11. 15 오전 10:10:07,10.5,오유진,1.0,nan,"noodles, pizza",nan,"snack, choco pie*3",13965,걷기 1시간,0,9975,"nan, noodles, pizza, nan, snack, choco pie*3",
+328,2023. 11. 15 오후 2:37:10,10.5,문선우,1.0,BLT bagel,banana,"Chicken Biryani plate, Cajun fries","chocolate cookie*0.5, yogurt",14933,"런닝머신 30분, 배드민턴 1시간반",1,10666,"BLT bagel, banana, Chicken Biryani plate, Cajun fries, chocolate cookie*0.5, yogurt",
+329,2023. 11. 15 오후 10:40:05,10.5,배우리,1.0,nan,"egg, boiled rice",instant noodles,"rice cake, ice americano size up",8239,걷기 40분,8,5885,"nan, egg, boiled rice, instant noodles, rice cake, ice americano size up",
+330,2023. 11. 16,1.7,서지윤,1.0,nan,spicy soft-tofu stew,"beef, rice",mandarin*2,1663,,1,1188,"nan, spicy soft-tofu stew, beef, rice, mandarin*2",
+331,2023. 11. 16,1.7,홍한별,1.0,nan,BLT sandwich,"braised beltfish food, boiled rice",canned beer,"6,830",,6,4879,"nan, BLT sandwich, braised beltfish food, boiled rice, canned beer",
+332,2023. 11. 16 오전 10:47:57,1.7,이채린 15일,1.0,chocolate milk,Mala Soup,"tea, Salt bread",nan,9200,,2,6571,"chocolate milk, Mala Soup, tea, Salt bread, nan",
+333,2023. 11. 16 오후 2:44:01,1.7,김정윤,0.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu","kimchi stew, fried egg","pizza, ice americano",10661,,3,7615,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu, kimchi stew, fried egg, pizza, ice americano",
+334,2023. 11. 16 오후 11:14:59,1.7,배우리,1.0,nan,nan,pork cutlet,nan,12714,걷기 50분,6,9081,"nan, nan, pork cutlet, nan",
+335,2023. 11. 17,7.8,서지윤,1.0,"salad, Spinach Soybean Paste Soup",instant ramen,"beef, rice",nan,1950,,0,1393,"salad, Spinach Soybean Paste Soup, instant ramen, beef, rice, nan",
+336,2023. 11. 17,7.8,김현지,1.0,nan,"ramen, 2 dumpling","udon 1/2, ramen 1/2, yakisoba bread 1/2",1 rice cake dumplings,24681,,3,17629,"nan, ramen, 2 dumpling, udon 1/2, ramen 1/2, yakisoba bread 1/2, 1 rice cake dumplings",
+337,2023. 11. 17,7.8,홍한별,1.0,nan,Meat Noodles,"grilled oyster, cocktail*2","cake, hot americano, shrimp","10,486",,2,7490,"nan, Meat Noodles, grilled oyster, cocktail*2, cake, hot americano, shrimp",
+338,2023. 11. 17 오전 4:25:46,7.8,문선우,1.0,"donut*2, bread",Shrimp Chipotle Linguini,"crab, fried rice",snack,12394,"힙 어브덕션 머신
+1세트: 27kg 12회 
+2세트: 27kg 12회 
+3세트: 27kg 12회 
+
+이너 싸이 머신
+1세트: 23kg 12회 
+2세트: 27kg 8회 
+
+체스트 프레스 머신
+1세트: 18kg 12회 
+2세트: 18kg 8회 
+
+숄더 프레스 머신
+1세트: 9kg 10회 
+2세트: 9kg 8회 
+
+랫풀다운
+1세트: 32kg 12회 
+2세트: 32kg 12회 
+3세트: 36kg 6회 
+",2,8853,"donut*2, bread, Shrimp Chipotle Linguini, crab, fried rice, snack",
+339,2023. 11. 17 오후 8:14:54,7.8,김민서,1.0,nan,"pork, boiled rice",sandwich,nan,5967,,3,4262,"nan, pork, boiled rice, sandwich, nan",
+340,2023. 11. 17 오후 10:01:17,7.8,배우리,1.0,nan,nan,"boiled rice, spicy soft-tofu stew",nan,6375,걷기 20분,3,4554,"nan, nan, boiled rice, spicy soft-tofu stew, nan",
+341,2023. 11. 18,9.5,서지윤,1.0,"Steamed Eggs, sea mustard soup",instant ramen,pork belly,"ice cream, drink",10595,,0,7568,"Steamed Eggs, sea mustard soup, instant ramen, pork belly, ice cream, drink",
+342,2023. 11. 18,9.5,김현지,1.0,"clam chowder, bread",sushi 8p,grilled meat set,"takoyaki, matcha latte",20063,,3,14331,"clam chowder, bread, sushi 8p, grilled meat set, takoyaki, matcha latte",
+343,2023. 11. 18,9.5,홍한별,1.0,"pork cutlet, boiled rice*2","coffee, cake","pork, boiled rice",cocktail,"6,343",,3,4531,"pork cutlet, boiled rice*2, coffee, cake, pork, boiled rice, cocktail",
+344,2023. 11. 18 오후 10:00:48,9.5,배우리,1.0,nan,nan,shin ramen,ice americano,12246,걷기 40분,5,8747,"nan, nan, shin ramen, ice americano",
+345,2023. 11. 19,13.7,김현지,1.0,nan,"hamburger, coke, french fries","ramen 1/2, pork cutlet 1/2",2 rice cake,20209,,2,14435,"nan, hamburger, coke, french fries, ramen 1/2, pork cutlet 1/2, 2 rice cake",
+346,2023. 11. 19,13.7,홍한별,1.0,nan,instant ramen with seafood,"grilled oyster, whiskey, cocktail",canned beer*2,"5,422",,2,3873,"nan, instant ramen with seafood, grilled oyster, whiskey, cocktail, canned beer*2",
+347,2023. 11. 20,12.2,김현지,1.0,nan,"udon, fried food",wang tokong,crepe,19065,,4,13618,"nan, udon, fried food, wang tokong, crepe",
+348,2023. 11. 20,12.2,홍한별,1.0,nan,"hamburger, french fried, coke","Pork neck kimchi stew, boiled rice",nan,"9,268",,6,6620,"nan, hamburger, french fried, coke, Pork neck kimchi stew, boiled rice, nan",
+349,2023. 11. 20 오전 12:16:00,12.2,문선우,1.0,"crab, fried rice, Santa fe Salad",nan,Chicken Korma Plate,nan,11347,,2,8105,"crab, fried rice, Santa fe Salad, nan, Chicken Korma Plate, nan",
+350,2023. 11. 20 오전 12:17:22,12.2,문선우,1.0,"Biscuit bacon sandwich, Fried eggs",egg soysauce rice,"rice noodles, chicken, pork rice",chocolate ice cream,17696,런닝머신 25분,1,12640,"Biscuit bacon sandwich, Fried eggs, egg soysauce rice, rice noodles, chicken, pork rice, chocolate ice cream",
+351,2023. 11. 20 오전 12:18:09,12.2,문선우,1.0,banana,Chicken plate,popcorn,chocolate ice cream,25592,,3,18280,"banana, Chicken plate, popcorn, chocolate ice cream",
+352,2023. 11. 20 오전 2:32:06,12.2,배우리,1.0,kimchi stew,rice cake,ramen,ice americano,8730,걷기 40분,6,6236,"kimchi stew, rice cake, ramen, ice americano",
+353,2023. 11. 20 오후 10:06:45,12.2,배우리,1.0,nan,nan,shin ramen,ice americano,7155,걷기 40분,7,5111,"nan, nan, shin ramen, ice americano",
+354,2023. 11. 21,12.7,김현지,1.0,nan,wang tokong,tteokbokki,vanilla latte,4874,,7,3481,"nan, wang tokong, tteokbokki, vanilla latte",
+355,2023. 11. 21,12.7,홍한별,1.0,ice americano large,"pork cutlet, boiled rice","steak, boiled rice","Iced Café Latte, cake","7,223",,7,5159,"ice americano large, pork cutlet, boiled rice, steak, boiled rice, Iced Café Latte, cake",
+356,2023. 11. 21 오후 10:55:31,12.7,김민서,1.0,nan,Chicken Cutlet,udon,nan,8534,,3,6096,"nan, Chicken Cutlet, udon, nan",
+357,2023. 11. 22,6.6,홍한별,1.0,rice,nan,ramen,Greek Yogurt,"1,831",필라테스 50분,3,1308,"rice, nan, ramen, Greek Yogurt",
+358,2023. 11. 22,6.6,김현지,1.0,nan,nan,tteokbokki,iced tea with 1 shot,2576,,7,1840,"nan, nan, tteokbokki, iced tea with 1 shot",
+359,2023. 11. 22 오전 12:15:29,6.6,배우리,1.0,bagel 1/2,nan,"gimbap, shin ramen",nan,11802,걷기 50분,4,8430,"bagel 1/2, nan, gimbap, shin ramen, nan",
+360,2023. 11. 22 오전 6:55:01,6.6,문선우,1.0,egg soysauce rice,nan,Cali bowl(poke),"chocolate cookie*0.5, nacho",11531,,5,8236,"egg soysauce rice, nan, Cali bowl(poke), chocolate cookie*0.5, nacho",
+361,2023. 11. 22 오후 10:09:42,6.6,배우리,1.0,nan,sandwich,intestines,ice americano*2,9338,걷기 40분,1,6670,"nan, sandwich, intestines, ice americano*2",
+362,2023. 11. 23,9.9,김현지,1.0,nan,cup noodle,cup noodle,nan,4240,,6,3029,"nan, cup noodle, cup noodle, nan",
+363,2023. 11. 23 오후 3:27:35,9.9,김동현,0.0,nan,"ham, boiled rice","jokbal, soju",soju,5234,"벤치프레스 135kg / 120 x 4 /  112.5 x 4 / 110 x 4 / 105 x 4, 4
+데드리프트 260 x 2 / 240 x 4 / 230 x 4 / 220 x 4, 4",6,3739,"nan, ham, boiled rice, jokbal, soju, soju",
+364,2023. 11. 23 오후 11:56:51,9.9,배우리,1.0,nan,tteokbokki,jokbal,nan,8057,걷기 40분,1,5755,"nan, tteokbokki, jokbal, nan",
+365,2023. 11. 24,7.3,김현지,1.0,nan,nan,cup noodle,choco latte,1715,,8,1225,"nan, nan, cup noodle, choco latte",
+366,2023. 11. 24 오전 1:43:22,7.3,문선우,1.0,popcorn,Miso Tofu Ramen,"Sweet potato, spaghetti",nacho,13761,,3,9829,"popcorn, Miso Tofu Ramen, Sweet potato, spaghetti, nacho",
+367,2023. 11. 24 오전 1:44:53,,문선우,1.0,"식빵 1개, 바나나 1개","라멘, 가라아게",불고기port cutlet 감boiled rice,보바,14471,"힙 어브덕션 머신
+1세트: 27kg 12회 
+2세트: 27kg 12회 
+3세트: 32kg 8회 
+
+이너 싸이 머신
+1세트: 23kg 12회 
+2세트: 23kg 12회 
+3세트: 27kg 5회 
+
+레그 프레스
+1세트: 63kg 12회 
+2세트: 72kg 10회 
+3세트: 72kg 12회 
+
+체스트 프레스 머신
+1세트: 18kg 12회 
+2세트: 18kg 12회 
+3세트: 18kg 9회 
+
+레그 컬
+1세트: 27kg 10회 
+2세트: 27kg 8회 
+3세트: 27kg 8회 
+
+숄더 프레스 머신
+1세트: 9kg 12회 
+2세트: 9kg 12회 
+3세트: 14kg 8회 
+
+레그 익스텐션
+1세트: 27kg 12회 
+2세트: 27kg 12회 
+3세트: 32kg 12회 
+
+랫풀다운
+1세트: 32kg 12회 
+2세트: 32kg 10회 
+3세트: 32kg 9회 
+
+시티드 로우 머신
+1세트: 23kg 12회 
+2세트: 23kg 10회 
+",1,10336,"식빵 1개, 바나나 1개, 라멘, 가라아게, 불고기port cutlet 감boiled rice, 보바",
+368,2023. 11. 24 오전 10:40:59,7.3,홍한별,1.0,nan,"omurice, deep-fried shrimp, Aglio e Olio Pasta, yogert*2","beef steak, boiled rice, Banquet Noodles,  dumpling, yogert","ice americano sizeup, Iced Café Latte","8,829",,9,6306,"nan, omurice, deep-fried shrimp, Aglio e Olio Pasta, yogert*2, beef steak, boiled rice, Banquet Noodles,  dumpling, yogert, ice americano sizeup, Iced Café Latte",
+369,2023. 11. 24 오전 10:45:27,7.3,고재경,0.0,nan,nan,chopped noodles,chicken,12933,,4,9238,"nan, nan, chopped noodles, chicken",
+370,2023. 11. 24 오전 10:47:29,7.3,고재경,1.0,nan,"curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(11/22) 치즈스테이크? 스파게티",japanese noodles,"soju , kimchi pancake",11520,,2,8229,"nan, curry, deep-fried shrimp, kimchi udon, Deep-fried Mandu(11/22) 치즈스테이크? 스파게티, japanese noodles, soju , kimchi pancake",
+371,2023. 11. 24 오전 11:21:32,7.3,김정윤,0.0,"Chicken breast, boiled rice, 아욱국","boiled rice, instant noodles",curry,nan,7826,"웨이트트레이닝 1시간10분
+랫플다운 데드 풀업어시스트 바벨로우",6,5590,"Chicken breast, boiled rice, 아욱국, boiled rice, instant noodles, curry, nan",
+372,2023. 11. 24 오후 10:46:00,7.3,배우리,1.0,nan,nan,"cheese, boiled rice, chopped roast chicken's foot",ice americano*2,8611,걷기 40분,2,6151,"nan, nan, cheese, boiled rice, chopped roast chicken's foot, ice americano*2",
+373,2023. 11. 25,4.9,김동현,0.0,"protein bar, protein drink",nan,pork,"chicken, soju",10849,,6,7749,"protein bar, protein drink, nan, pork, chicken, soju",
+374,2023. 11. 25 오후 10:52:08,4.9,배우리,1.0,Soy sauce noodles,nan,pork belly,ice americano sizeup,8069,걷기 50분,5,5764,"Soy sauce noodles, nan, pork belly, ice americano sizeup",
+375,2023. 11. 26,6.4,김동현,0.0,nan,"instant noodle, chicken breast","ham, egg, boiled rice",nan,2067,,4,1476,"nan, instant noodle, chicken breast, ham, egg, boiled rice, nan",
+376,2023. 11. 26 오후 3:56:19,6.4,문선우,1.0,bread,"Turkey, mac n cheeze, potatoes, salad, pumpkin pie","Tomato pasta, mac n cheeze",Margaret,9241,,3,6601,"bread, Turkey, mac n cheeze, potatoes, salad, pumpkin pie, Tomato pasta, mac n cheeze, Margaret",
+377,2023. 11. 26 오후 10:06:53,6.4,배우리,1.0,nan,nan,"shin ramen, gimbap 1/2",nan,7689,걷기 40분,8,5492,"nan, nan, shin ramen, gimbap 1/2, nan",
+378,2023. 11. 27,7.0,김동현,0.0,nan,"protein bar, protein drink","chicken breast, tuna, boiled rice",chicken gangjeong,3813,"스쿼트 230 x 1 / 210 x 4 / 195 x 4 / 190 x 4 / 170 x 4
+벤치프레스 140 x 1 / 115 x 4 / 110 x 4, 4, 4,",7,2724,"nan, protein bar, protein drink, chicken breast, tuna, boiled rice, chicken gangjeong",
+379,2023. 11. 27 오후 2:38:37,7.0,문선우,1.0,"Turkey, bread, potatoes, salad","Turkey, bread, potatoes, salad, mac n cheeze",egg soysauce rice,"Margaret, cookie*2",5411,,4,3865,"Turkey, bread, potatoes, salad, Turkey, bread, potatoes, salad, mac n cheeze, egg soysauce rice, Margaret, cookie*2",
+380,2023. 11. 27 오후 3:45:07,7.0,고재경,0.0,Chicken soup,nan,Fish Roe Rice,"beer 1 , fried dumpling",12614,,5,9010,"Chicken soup, nan, Fish Roe Rice, beer 1 , fried dumpling",
+381,2023. 11. 27 오후 11:21:30,7.0,배우리,1.0,donut,nan,pizza,nan,11396,"피겨 1시간 30분, 걷기 30분",2,8140,"donut, nan, pizza, nan",
+382,2023. 11. 28,6.4,김동현,0.0,pork noodles,nan,"boiled kimchi stew, rice",nan,5189,스쿼트 몸풀기 느낌으로 200kg까지,8,3706,"pork noodles, nan, boiled kimchi stew, rice, nan",
+383,2023. 11. 28 오전 2:26:13,6.4,강지연,1.0,apple,nan,"instant ramen, pork belly",nan,10945,,4,7818,"apple, nan, instant ramen, pork belly, nan",
+384,2023. 11. 28 오후 12:31:03,6.4,고재경,0.0,nan,tteokbokki,chinese-style noodles,double bulgogi burger,12300,,4,8786,"nan, tteokbokki, chinese-style noodles, double bulgogi burger",
+385,2023. 11. 28 오후 11:00:25,6.4,배우리,1.0,yogurt,nan,"bean curd, instant noodles",nan,7478,걷기 40분,10,5341,"yogurt, nan, bean curd, instant noodles, nan",
+386,2023. 11. 29 오후 10:01:21,7.0,배우리,1.0,yogurt,nan,"chinese-style noodles, lamb skewers",chamomile tea,8241,걷기 40분,2,5886,"yogurt, nan, chinese-style noodles, lamb skewers, chamomile tea",
+387,2023. 11. 30 오후 3:29:36,6.8,문선우,1.0,gimbap,boba,Tuna salad sandwich,nan,24475,런닝머신 30분,1,17482,"gimbap, boba, Tuna salad sandwich, nan",
+388,2023. 11. 30 오후 10:41:52,6.8,배우리,1.0,greek yogert,nan,pineapple pizza,bread,6808,걷기 30분,5,4863,"greek yogert, nan, pineapple pizza, bread",
+389,2023. 12. 1 오후 10:38:52,7.5,배우리,1.0,toast,fried rice,boiled chicken,"cocktail, burger",13872,"피겨 2시간 30분, 걷기 40분",2,9909,"toast, fried rice, boiled chicken, cocktail, burger",
+390,2023. 12. 2 오후 10:21:02,12.4,배우리,1.0,bread,"fried rice cake, fried rice","pork cutlet, boiled rice",iced coffee,7205,걷기 30분,4,5146,"bread, fried rice cake, fried rice, pork cutlet, boiled rice, iced coffee",
+391,2023. 12. 3 오후 10:14:45,8.8,배우리,1.0,black bean souce boiled rice,steam boat,nan,bread,5944,,4,4246,"black bean souce boiled rice, steam boat, nan, bread",
+392,2023. 12. 4 오후 10:07:19,12.4,배우리,1.0,bread,nan,"bean curd, instant noodles",yakgwa,6254,걷기 35분,6,4467,"bread, nan, bean curd, instant noodles, yakgwa",
